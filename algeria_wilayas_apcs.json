@@ -1,0 +1,6572 @@
+{
+    "adrar": {
+        "wilaya_code": "01",
+        "wilaya_name_ar": "أدرار",
+        "wilaya_name_ascii": "Adrar",
+        "apcs": [
+            {
+                "apc_name_ar": "تيمقتن",
+                "apc_name_ascii": "Timekten"
+            },
+            {
+                "apc_name_ar": "بودة",
+                "apc_name_ascii": "Bouda"
+            },
+            {
+                "apc_name_ar": "أولاد أحمد تيمي",
+                "apc_name_ascii": "Ouled Ahmed Timmi"
+            },
+            {
+                "apc_name_ar": "أدرار",
+                "apc_name_ascii": "Adrar"
+            },
+            {
+                "apc_name_ar": "فنوغيل",
+                "apc_name_ascii": "Fenoughil"
+            },
+            {
+                "apc_name_ar": "إن زغمير",
+                "apc_name_ascii": "In Zghmir"
+            },
+            {
+                "apc_name_ar": "رقان",
+                "apc_name_ascii": "Reggane"
+            },
+            {
+                "apc_name_ar": "سالي",
+                "apc_name_ascii": "Sali"
+            },
+            {
+                "apc_name_ar": "السبع",
+                "apc_name_ascii": "Sebaa"
+            },
+            {
+                "apc_name_ar": "تسابيت",
+                "apc_name_ascii": "Tsabit"
+            },
+            {
+                "apc_name_ar": "تامست",
+                "apc_name_ascii": "Tamest"
+            },
+            {
+                "apc_name_ar": "تامنطيط",
+                "apc_name_ascii": "Tamantit"
+            },
+            {
+                "apc_name_ar": "تيت",
+                "apc_name_ascii": "Tit"
+            },
+            {
+                "apc_name_ar": "زاوية كنتة",
+                "apc_name_ascii": "Zaouiet Kounta"
+            },
+            {
+                "apc_name_ar": "اقبلي",
+                "apc_name_ascii": "Akabli"
+            },
+            {
+                "apc_name_ar": "أولف",
+                "apc_name_ascii": "Aoulef"
+            }
+        ]
+    },
+    "chlef": {
+        "wilaya_code": "02",
+        "wilaya_name_ar": " الشلف",
+        "wilaya_name_ascii": "Chlef",
+        "apcs": [
+            {
+                "apc_name_ar": "تلعصة",
+                "apc_name_ascii": "Talassa"
+            },
+            {
+                "apc_name_ar": "الزبوجة",
+                "apc_name_ascii": "Zeboudja"
+            },
+            {
+                "apc_name_ar": "الحجاج",
+                "apc_name_ascii": "El Hadjadj"
+            },
+            {
+                "apc_name_ar": "أولاد بن عبد القادر",
+                "apc_name_ascii": "Ouled Ben Abdelkader"
+            },
+            {
+                "apc_name_ar": "عين مران",
+                "apc_name_ascii": "Ain Merane"
+            },
+            {
+                "apc_name_ar": "بريرة",
+                "apc_name_ascii": "Breira"
+            },
+            {
+                "apc_name_ar": "أولاد عباس",
+                "apc_name_ascii": "Ouled Abbes"
+            },
+            {
+                "apc_name_ar": "وادي الفضة",
+                "apc_name_ascii": "Oued Fodda"
+            },
+            {
+                "apc_name_ar": "بني راشد",
+                "apc_name_ascii": "Beni Rached"
+            },
+            {
+                "apc_name_ar": "الهرانفة",
+                "apc_name_ascii": "Herenfa"
+            },
+            {
+                "apc_name_ar": "تاجنة",
+                "apc_name_ascii": "Tadjena"
+            },
+            {
+                "apc_name_ar": "المرسى",
+                "apc_name_ascii": "El Marsa"
+            },
+            {
+                "apc_name_ar": "الشلف",
+                "apc_name_ascii": "Chlef"
+            },
+            {
+                "apc_name_ar": "أم الدروع",
+                "apc_name_ascii": "Oum Drou"
+            },
+            {
+                "apc_name_ar": "سنجاس",
+                "apc_name_ascii": "Sendjas"
+            },
+            {
+                "apc_name_ar": "سيدي عبد الرحمن",
+                "apc_name_ascii": "Sidi Abderrahmane"
+            },
+            {
+                "apc_name_ar": "سيدي عكاشة",
+                "apc_name_ascii": "Sidi Akkacha"
+            },
+            {
+                "apc_name_ar": "تنس",
+                "apc_name_ascii": "Tenes"
+            },
+            {
+                "apc_name_ar": "بني بوعتاب",
+                "apc_name_ascii": "Beni  Bouattab"
+            },
+            {
+                "apc_name_ar": "الكريمية",
+                "apc_name_ascii": "El Karimia"
+            },
+            {
+                "apc_name_ar": "حرشون",
+                "apc_name_ascii": "Harchoun"
+            },
+            {
+                "apc_name_ar": "بوزغاية",
+                "apc_name_ascii": "Bouzeghaia"
+            },
+            {
+                "apc_name_ar": "تاوقريت",
+                "apc_name_ascii": "Taougrit"
+            },
+            {
+                "apc_name_ar": "بني حواء",
+                "apc_name_ascii": "Beni Haoua"
+            },
+            {
+                "apc_name_ar": "أبو الحسن",
+                "apc_name_ascii": "Abou El Hassane"
+            },
+            {
+                "apc_name_ar": "وادي قوسين",
+                "apc_name_ascii": "Oued Goussine"
+            },
+            {
+                "apc_name_ar": "الشطية",
+                "apc_name_ascii": "Chettia"
+            },
+            {
+                "apc_name_ar": "مصدق",
+                "apc_name_ascii": "Moussadek"
+            },
+            {
+                "apc_name_ar": "أولاد فارس",
+                "apc_name_ascii": "Ouled Fares"
+            },
+            {
+                "apc_name_ar": "بوقادير",
+                "apc_name_ascii": "Boukadir"
+            },
+            {
+                "apc_name_ar": "وادي سلي",
+                "apc_name_ascii": "Oued Sly"
+            },
+            {
+                "apc_name_ar": "الصبحة",
+                "apc_name_ascii": "Sobha"
+            },
+            {
+                "apc_name_ar": "بنايرية",
+                "apc_name_ascii": "Benairia"
+            },
+            {
+                "apc_name_ar": "الأبيض مجاجة",
+                "apc_name_ascii": "Labiod Medjadja"
+            },
+            {
+                "apc_name_ar": "الظهرة",
+                "apc_name_ascii": "Dahra"
+            }
+        ]
+    },
+    "laghouat": {
+        "wilaya_code": "03",
+        "wilaya_name_ar": "الأغواط",
+        "wilaya_name_ascii": "Laghouat",
+        "apcs": [
+            {
+                "apc_name_ar": "البيضاء",
+                "apc_name_ascii": "El Beidha"
+            },
+            {
+                "apc_name_ar": "قلتة سيدي سعد",
+                "apc_name_ascii": "Gueltat Sidi Saad"
+            },
+            {
+                "apc_name_ar": "بريدة",
+                "apc_name_ascii": "Brida"
+            },
+            {
+                "apc_name_ar": "عين سيدي علي",
+                "apc_name_ascii": "Ain Sidi Ali"
+            },
+            {
+                "apc_name_ar": "تاجموت",
+                "apc_name_ascii": "Tadjemout"
+            },
+            {
+                "apc_name_ar": "الحاج مشري",
+                "apc_name_ascii": "Hadj Mechri"
+            },
+            {
+                "apc_name_ar": "تاويالة",
+                "apc_name_ascii": "Taouiala"
+            },
+            {
+                "apc_name_ar": "الغيشة",
+                "apc_name_ascii": "El Ghicha"
+            },
+            {
+                "apc_name_ar": "تاجرونة",
+                "apc_name_ascii": "Tadjrouna"
+            },
+            {
+                "apc_name_ar": "سبقاق",
+                "apc_name_ascii": "Sebgag"
+            },
+            {
+                "apc_name_ar": "سيدي بوزيد",
+                "apc_name_ascii": "Sidi Bouzid"
+            },
+            {
+                "apc_name_ar": "وادي مرة",
+                "apc_name_ascii": "Oued Morra"
+            },
+            {
+                "apc_name_ar": "الأغواط",
+                "apc_name_ascii": "Laghouat"
+            },
+            {
+                "apc_name_ar": "وادي مزي",
+                "apc_name_ascii": "Oued M'zi"
+            },
+            {
+                "apc_name_ar": "قصر الحيران",
+                "apc_name_ascii": "Ksar El Hirane"
+            },
+            {
+                "apc_name_ar": "العسافية",
+                "apc_name_ascii": "El Assafia"
+            },
+            {
+                "apc_name_ar": "سيدي مخلوف",
+                "apc_name_ascii": "Sidi Makhlouf"
+            },
+            {
+                "apc_name_ar": "حاسي الدلاعة",
+                "apc_name_ascii": "Hassi Delaa"
+            },
+            {
+                "apc_name_ar": "حاسي الرمل",
+                "apc_name_ascii": "Hassi R'mel"
+            },
+            {
+                "apc_name_ar": "عين ماضي",
+                "apc_name_ascii": "Ain Madhi"
+            },
+            {
+                "apc_name_ar": "الحويطة",
+                "apc_name_ascii": "El Haouaita"
+            },
+            {
+                "apc_name_ar": "الخنق",
+                "apc_name_ascii": "Kheneg"
+            },
+            {
+                "apc_name_ar": "بن ناصر بن شهرة",
+                "apc_name_ascii": "Benacer Benchohra"
+            },
+            {
+                "apc_name_ar": "أفلو",
+                "apc_name_ascii": "Aflou"
+            }
+        ]
+    },
+    "oum_el_bouaghi": {
+        "wilaya_code": "04",
+        "wilaya_name_ar": "أم البواقي",
+        "wilaya_name_ascii": "Oum El Bouaghi",
+        "apcs": [
+            {
+                "apc_name_ar": "فكيرينة",
+                "apc_name_ascii": "Fkirina"
+            },
+            {
+                "apc_name_ar": "الفجوج بوغرارة سعودي",
+                "apc_name_ascii": "El Fedjoudj Boughrara Sa"
+            },
+            {
+                "apc_name_ar": "عين فكرون",
+                "apc_name_ascii": "Ain Fekroun"
+            },
+            {
+                "apc_name_ar": "الرحية",
+                "apc_name_ascii": "Rahia"
+            },
+            {
+                "apc_name_ar": "مسكيانة",
+                "apc_name_ascii": "Meskiana"
+            },
+            {
+                "apc_name_ar": "البلالة",
+                "apc_name_ascii": "El Belala"
+            },
+            {
+                "apc_name_ar": "بحير الشرقي",
+                "apc_name_ascii": "Behir Chergui"
+            },
+            {
+                "apc_name_ar": "قصر الصباحي",
+                "apc_name_ascii": "Ksar Sbahi"
+            },
+            {
+                "apc_name_ar": "سوق نعمان",
+                "apc_name_ascii": "Souk Naamane"
+            },
+            {
+                "apc_name_ar": "أولاد زواي",
+                "apc_name_ascii": "Ouled Zouai"
+            },
+            {
+                "apc_name_ar": "أم البواقي",
+                "apc_name_ascii": "Oum El Bouaghi"
+            },
+            {
+                "apc_name_ar": "عين ببوش",
+                "apc_name_ascii": "Ain Babouche"
+            },
+            {
+                "apc_name_ar": "عين الزيتون",
+                "apc_name_ascii": "Ain Zitoun"
+            },
+            {
+                "apc_name_ar": "بئر الشهداء",
+                "apc_name_ascii": "Bir Chouhada"
+            },
+            {
+                "apc_name_ar": "عين البيضاء",
+                "apc_name_ascii": "Ain Beida"
+            },
+            {
+                "apc_name_ar": "بريش",
+                "apc_name_ascii": "Berriche"
+            },
+            {
+                "apc_name_ar": "الزرق",
+                "apc_name_ascii": "Zorg"
+            },
+            {
+                "apc_name_ar": "عين مليلة",
+                "apc_name_ascii": "Ain M'lila"
+            },
+            {
+                "apc_name_ar": "أولاد قاسم",
+                "apc_name_ascii": "Ouled Gacem"
+            },
+            {
+                "apc_name_ar": "أولاد حملة",
+                "apc_name_ascii": "Ouled Hamla"
+            },
+            {
+                "apc_name_ar": "العامرية",
+                "apc_name_ascii": "El Amiria"
+            },
+            {
+                "apc_name_ar": "سيقوس",
+                "apc_name_ascii": "Sigus"
+            },
+            {
+                "apc_name_ar": "وادي نيني",
+                "apc_name_ascii": "Oued Nini"
+            },
+            {
+                "apc_name_ar": "عين الديس",
+                "apc_name_ascii": "Ain Diss"
+            },
+            {
+                "apc_name_ar": "الضلعة",
+                "apc_name_ascii": "Dhalaa"
+            },
+            {
+                "apc_name_ar": "الجازية",
+                "apc_name_ascii": "El Djazia"
+            },
+            {
+                "apc_name_ar": "عين كرشة",
+                "apc_name_ascii": "Ain Kercha"
+            },
+            {
+                "apc_name_ar": "الحرملية",
+                "apc_name_ascii": "El Harmilia"
+            },
+            {
+                "apc_name_ar": "هنشير تومغني",
+                "apc_name_ascii": "Hanchir Toumghani"
+            }
+        ]
+    },
+    "batna": {
+        "wilaya_code": "05",
+        "wilaya_name_ar": "باتنة",
+        "wilaya_name_ascii": "Batna",
+        "apcs": [
+            {
+                "apc_name_ar": "معافة",
+                "apc_name_ascii": "Maafa"
+            },
+            {
+                "apc_name_ar": "القصبات",
+                "apc_name_ascii": "Gosbat"
+            },
+            {
+                "apc_name_ar": "تيمقاد",
+                "apc_name_ascii": "Timgad"
+            },
+            {
+                "apc_name_ar": "تاكسلانت",
+                "apc_name_ascii": "Taxlent"
+            },
+            {
+                "apc_name_ar": "أولاد سي سليمان",
+                "apc_name_ascii": "Ouled Si Slimane"
+            },
+            {
+                "apc_name_ar": "لمسان",
+                "apc_name_ascii": "Lemcene"
+            },
+            {
+                "apc_name_ar": "تالخمت",
+                "apc_name_ascii": "Talkhamt"
+            },
+            {
+                "apc_name_ar": "رأس العيون",
+                "apc_name_ascii": "Ras El Aioun"
+            },
+            {
+                "apc_name_ar": "الرحبات",
+                "apc_name_ascii": "Rahbat"
+            },
+            {
+                "apc_name_ar": "أولاد سلام",
+                "apc_name_ascii": "Ouled Sellem"
+            },
+            {
+                "apc_name_ar": "القيقبة",
+                "apc_name_ascii": "Guigba"
+            },
+            {
+                "apc_name_ar": "ثنية العابد",
+                "apc_name_ascii": "Teniet El Abed"
+            },
+            {
+                "apc_name_ar": "باتنة",
+                "apc_name_ascii": "Batna"
+            },
+            {
+                "apc_name_ar": "فسديس",
+                "apc_name_ascii": "Fesdis"
+            },
+            {
+                "apc_name_ar": "وادي الشعبة",
+                "apc_name_ascii": "Oued Chaaba"
+            },
+            {
+                "apc_name_ar": "حيدوسة",
+                "apc_name_ascii": "Hidoussa"
+            },
+            {
+                "apc_name_ar": "قصر بلزمة",
+                "apc_name_ascii": "Ksar Bellezma"
+            },
+            {
+                "apc_name_ar": "مروانة",
+                "apc_name_ascii": "Merouana"
+            },
+            {
+                "apc_name_ar": "وادي الماء",
+                "apc_name_ascii": "Oued El Ma"
+            },
+            {
+                "apc_name_ar": "لازرو",
+                "apc_name_ascii": "Lazrou"
+            },
+            {
+                "apc_name_ar": "سريانة",
+                "apc_name_ascii": "Seriana"
+            },
+            {
+                "apc_name_ar": "زانة البيضاء",
+                "apc_name_ascii": "Zanet El Beida"
+            },
+            {
+                "apc_name_ar": "منعة",
+                "apc_name_ascii": "Menaa"
+            },
+            {
+                "apc_name_ar": "تغرغار",
+                "apc_name_ascii": "Tigharghar"
+            },
+            {
+                "apc_name_ar": "عين ياقوت",
+                "apc_name_ascii": "Ain Yagout"
+            },
+            {
+                "apc_name_ar": "بومية",
+                "apc_name_ascii": "Boumia"
+            },
+            {
+                "apc_name_ar": "جرمة",
+                "apc_name_ascii": "Djerma"
+            },
+            {
+                "apc_name_ar": "المعذر",
+                "apc_name_ascii": "El Madher"
+            },
+            {
+                "apc_name_ar": "عيون العصافير",
+                "apc_name_ascii": "Ouyoun El Assafir"
+            },
+            {
+                "apc_name_ar": "تازولت",
+                "apc_name_ascii": "Tazoult"
+            },
+            {
+                "apc_name_ar": "بومقر",
+                "apc_name_ascii": "Boumagueur"
+            },
+            {
+                "apc_name_ar": "نقاوس",
+                "apc_name_ascii": "N Gaous"
+            },
+            {
+                "apc_name_ar": "سفيان",
+                "apc_name_ascii": "Sefiane"
+            },
+            {
+                "apc_name_ar": "أريس",
+                "apc_name_ascii": "Arris"
+            },
+            {
+                "apc_name_ar": "تيغانمين",
+                "apc_name_ascii": "Tighanimine"
+            },
+            {
+                "apc_name_ar": "عين جاسر",
+                "apc_name_ascii": "Ain Djasser"
+            },
+            {
+                "apc_name_ar": "الحاسي",
+                "apc_name_ascii": "El Hassi"
+            },
+            {
+                "apc_name_ar": "سقانة",
+                "apc_name_ascii": "Seggana"
+            },
+            {
+                "apc_name_ar": "تيلاطو",
+                "apc_name_ascii": "Tilatou"
+            },
+            {
+                "apc_name_ar": "فم الطوب",
+                "apc_name_ascii": "Foum Toub"
+            },
+            {
+                "apc_name_ar": "إشمول",
+                "apc_name_ascii": "Ichemoul"
+            },
+            {
+                "apc_name_ar": "إينوغيسن",
+                "apc_name_ascii": "Inoughissen"
+            },
+            {
+                "apc_name_ar": "بوزينة",
+                "apc_name_ascii": "Bouzina"
+            },
+            {
+                "apc_name_ar": "لارباع",
+                "apc_name_ascii": "Larbaa"
+            },
+            {
+                "apc_name_ar": "بولهيلات",
+                "apc_name_ascii": "Boulhilat"
+            },
+            {
+                "apc_name_ar": "الشمرة",
+                "apc_name_ascii": "Chemora"
+            },
+            {
+                "apc_name_ar": "بريكة",
+                "apc_name_ascii": "Barika"
+            },
+            {
+                "apc_name_ar": "بيطام",
+                "apc_name_ascii": "Bitam"
+            },
+            {
+                "apc_name_ar": "إمدوكل",
+                "apc_name_ascii": "M Doukal"
+            },
+            {
+                "apc_name_ar": "عزيل عبد القادر",
+                "apc_name_ascii": "Azil Abedelkader"
+            },
+            {
+                "apc_name_ar": "الجزار",
+                "apc_name_ascii": "Djezzar"
+            },
+            {
+                "apc_name_ar": "أولاد عمار",
+                "apc_name_ascii": "Ouled Ammar"
+            },
+            {
+                "apc_name_ar": "غسيرة",
+                "apc_name_ascii": "Ghassira"
+            },
+            {
+                "apc_name_ar": "كيمل",
+                "apc_name_ascii": "Kimmel"
+            },
+            {
+                "apc_name_ar": "تكوت",
+                "apc_name_ascii": "T Kout"
+            },
+            {
+                "apc_name_ar": "عين التوتة",
+                "apc_name_ascii": "Ain Touta"
+            },
+            {
+                "apc_name_ar": "بني فضالة الحقانية",
+                "apc_name_ascii": "Beni Foudhala El Hakania"
+            },
+            {
+                "apc_name_ar": "أولاد فاضل",
+                "apc_name_ascii": "Ouled Fadel"
+            },
+            {
+                "apc_name_ar": "أولاد عوف",
+                "apc_name_ascii": "Ouled Aouf"
+            },
+            {
+                "apc_name_ar": "شير",
+                "apc_name_ascii": "Chir"
+            },
+            {
+                "apc_name_ar": "وادي الطاقة",
+                "apc_name_ascii": "Oued Taga"
+            }
+        ]
+    },
+    "béjaïa": {
+        "wilaya_code": "06",
+        "wilaya_name_ar": " بجاية",
+        "wilaya_name_ascii": "Béjaïa",
+        "apcs": [
+            {
+                "apc_name_ar": "سيدي عياد",
+                "apc_name_ascii": "Sidi Ayad"
+            },
+            {
+                "apc_name_ar": "برباشة",
+                "apc_name_ascii": "Barbacha"
+            },
+            {
+                "apc_name_ar": "الفلاي",
+                "apc_name_ascii": "Leflaye"
+            },
+            {
+                "apc_name_ar": "كنديرة",
+                "apc_name_ascii": "Kendira"
+            },
+            {
+                "apc_name_ar": "سيدي عيش",
+                "apc_name_ascii": "Sidi-Aich"
+            },
+            {
+                "apc_name_ar": "تيفرة",
+                "apc_name_ascii": "Tifra"
+            },
+            {
+                "apc_name_ar": "تينبدار",
+                "apc_name_ascii": "Tinebdar"
+            },
+            {
+                "apc_name_ar": "القصر",
+                "apc_name_ascii": "El Kseur"
+            },
+            {
+                "apc_name_ar": "فناية الماثن",
+                "apc_name_ascii": "Fenaia Il Maten"
+            },
+            {
+                "apc_name_ar": "توجة",
+                "apc_name_ascii": "Toudja"
+            },
+            {
+                "apc_name_ar": "ذراع القايد",
+                "apc_name_ascii": "Dra El Caid"
+            },
+            {
+                "apc_name_ar": "خراطة",
+                "apc_name_ascii": "Kherrata"
+            },
+            {
+                "apc_name_ar": "بجاية",
+                "apc_name_ascii": "Bejaia"
+            },
+            {
+                "apc_name_ar": "وادي غير",
+                "apc_name_ascii": "Oued Ghir"
+            },
+            {
+                "apc_name_ar": "بني معوش",
+                "apc_name_ascii": "Benimaouche"
+            },
+            {
+                "apc_name_ar": "بني جليل",
+                "apc_name_ascii": "Beni Djellil"
+            },
+            {
+                "apc_name_ar": "فرعون",
+                "apc_name_ascii": "Feraoun"
+            },
+            {
+                "apc_name_ar": "سمعون",
+                "apc_name_ascii": "Smaoun"
+            },
+            {
+                "apc_name_ar": "تيمزريت",
+                "apc_name_ascii": "Timezrit"
+            },
+            {
+                "apc_name_ar": "مالبو",
+                "apc_name_ascii": "Melbou"
+            },
+            {
+                "apc_name_ar": "سوق لإثنين",
+                "apc_name_ascii": "Souk El Tenine"
+            },
+            {
+                "apc_name_ar": "تامريجت",
+                "apc_name_ascii": "Tamridjet"
+            },
+            {
+                "apc_name_ar": "بوخليفة",
+                "apc_name_ascii": "Boukhelifa"
+            },
+            {
+                "apc_name_ar": "تالة حمزة",
+                "apc_name_ascii": "Tala Hamza"
+            },
+            {
+                "apc_name_ar": "تيشي",
+                "apc_name_ascii": "Tichy"
+            },
+            {
+                "apc_name_ar": "أيت رزين",
+                "apc_name_ascii": "Ait R'zine"
+            },
+            {
+                "apc_name_ar": "إغيل علي",
+                "apc_name_ascii": "Ighil-Ali"
+            },
+            {
+                "apc_name_ar": "أيت إسماعيل",
+                "apc_name_ascii": "Ait-Smail"
+            },
+            {
+                "apc_name_ar": "درقينة",
+                "apc_name_ascii": "Darguina"
+            },
+            {
+                "apc_name_ar": "تاسكريوت",
+                "apc_name_ascii": "Taskriout"
+            },
+            {
+                "apc_name_ar": "أوقاس",
+                "apc_name_ascii": "Aokas"
+            },
+            {
+                "apc_name_ar": "تيزي نبربر",
+                "apc_name_ascii": "Tizi-N'berber"
+            },
+            {
+                "apc_name_ar": "أدكار",
+                "apc_name_ascii": "Adekar"
+            },
+            {
+                "apc_name_ar": "بني كسيلة",
+                "apc_name_ascii": "Beni K'sila"
+            },
+            {
+                "apc_name_ar": "تاوريرت إغيل",
+                "apc_name_ascii": "Taourit Ighil"
+            },
+            {
+                "apc_name_ar": "أقبو",
+                "apc_name_ascii": "Akbou"
+            },
+            {
+                "apc_name_ar": "شلاطة",
+                "apc_name_ascii": "Chellata"
+            },
+            {
+                "apc_name_ar": "اغرم",
+                "apc_name_ascii": "Ighram"
+            },
+            {
+                "apc_name_ar": "تامقرة",
+                "apc_name_ascii": "Tamokra"
+            },
+            {
+                "apc_name_ar": "أمالو",
+                "apc_name_ascii": "Amalou"
+            },
+            {
+                "apc_name_ar": "بوحمزة",
+                "apc_name_ascii": "Bouhamza"
+            },
+            {
+                "apc_name_ar": "مسيسنة",
+                "apc_name_ascii": "M'cisna"
+            },
+            {
+                "apc_name_ar": "صدوق",
+                "apc_name_ascii": "Seddouk"
+            },
+            {
+                "apc_name_ar": "بني مليكش",
+                "apc_name_ascii": "Beni-Mallikeche"
+            },
+            {
+                "apc_name_ar": "بو جليل",
+                "apc_name_ascii": "Boudjellil"
+            },
+            {
+                "apc_name_ar": "تازمالت",
+                "apc_name_ascii": "Tazmalt"
+            },
+            {
+                "apc_name_ar": "أكفادو",
+                "apc_name_ascii": "Akfadou"
+            },
+            {
+                "apc_name_ar": "شميني",
+                "apc_name_ascii": "Chemini"
+            },
+            {
+                "apc_name_ar": "سوق اوفلا",
+                "apc_name_ascii": "Souk Oufella"
+            },
+            {
+                "apc_name_ar": "طيبان",
+                "apc_name_ascii": "Tibane"
+            },
+            {
+                "apc_name_ar": "أوزلاقن",
+                "apc_name_ascii": "Ouzellaguen"
+            },
+            {
+                "apc_name_ar": "أميزور",
+                "apc_name_ascii": "Amizour"
+            }
+        ]
+    },
+    "biskra": {
+        "wilaya_code": "07",
+        "wilaya_name_ar": "بسكرة",
+        "wilaya_name_ascii": "Biskra",
+        "apcs": [
+            {
+                "apc_name_ar": "الفيض",
+                "apc_name_ascii": "El Feidh"
+            },
+            {
+                "apc_name_ar": "ليشانة",
+                "apc_name_ascii": "Lichana"
+            },
+            {
+                "apc_name_ar": "بوشقرون",
+                "apc_name_ascii": "Bouchakroun"
+            },
+            {
+                "apc_name_ar": "مخادمة",
+                "apc_name_ascii": "Mekhadma"
+            },
+            {
+                "apc_name_ar": "جمورة",
+                "apc_name_ascii": "Djemorah"
+            },
+            {
+                "apc_name_ar": "برانيس",
+                "apc_name_ascii": "Branis"
+            },
+            {
+                "apc_name_ar": "الوطاية",
+                "apc_name_ascii": "El Outaya"
+            },
+            {
+                "apc_name_ar": "القنطرة",
+                "apc_name_ascii": "El Kantara"
+            },
+            {
+                "apc_name_ar": "خنقة سيدي ناجي",
+                "apc_name_ascii": "Khenguet Sidi Nadji"
+            },
+            {
+                "apc_name_ar": "عين زعطوط",
+                "apc_name_ascii": "Ain Zaatout"
+            },
+            {
+                "apc_name_ar": "زريبة الوادي",
+                "apc_name_ascii": "Zeribet El Oued"
+            },
+            {
+                "apc_name_ar": "المزيرعة",
+                "apc_name_ascii": "Meziraa"
+            },
+            {
+                "apc_name_ar": "بسكرة",
+                "apc_name_ascii": "Biskra"
+            },
+            {
+                "apc_name_ar": "الحاجب",
+                "apc_name_ascii": "El Hadjab"
+            },
+            {
+                "apc_name_ar": "مليلي",
+                "apc_name_ascii": "M'lili"
+            },
+            {
+                "apc_name_ar": "فوغالة",
+                "apc_name_ascii": "Foughala"
+            },
+            {
+                "apc_name_ar": "الغروس",
+                "apc_name_ascii": "El Ghrous"
+            },
+            {
+                "apc_name_ar": "برج بن عزوز",
+                "apc_name_ascii": "Bordj Ben Azzouz"
+            },
+            {
+                "apc_name_ar": "أورلال",
+                "apc_name_ascii": "Ourlal"
+            },
+            {
+                "apc_name_ar": "أوماش",
+                "apc_name_ascii": "Oumache"
+            },
+            {
+                "apc_name_ar": "عين الناقة",
+                "apc_name_ascii": "Ain Naga"
+            },
+            {
+                "apc_name_ar": "شتمة",
+                "apc_name_ascii": "Chetma"
+            },
+            {
+                "apc_name_ar": "الحوش",
+                "apc_name_ascii": "El Haouch"
+            },
+            {
+                "apc_name_ar": "سيدي عقبة",
+                "apc_name_ascii": "Sidi Okba"
+            },
+            {
+                "apc_name_ar": "مشونش",
+                "apc_name_ascii": "M'chouneche"
+            },
+            {
+                "apc_name_ar": "ليوة",
+                "apc_name_ascii": "Lioua"
+            },
+            {
+                "apc_name_ar": "طولقة",
+                "apc_name_ascii": "Tolga"
+            }
+        ]
+    },
+    "béchar": {
+        "wilaya_code": "08",
+        "wilaya_name_ar": "بشار",
+        "wilaya_name_ascii": "Béchar",
+        "apcs": [
+            {
+                "apc_name_ar": "بشار",
+                "apc_name_ascii": "Bechar"
+            },
+            {
+                "apc_name_ar": "بوكايس",
+                "apc_name_ascii": "Boukais"
+            },
+            {
+                "apc_name_ar": "لحمر",
+                "apc_name_ascii": "Lahmar"
+            },
+            {
+                "apc_name_ar": "موغل",
+                "apc_name_ascii": "Mogheul"
+            },
+            {
+                "apc_name_ar": "المريجة",
+                "apc_name_ascii": "Meridja"
+            },
+            {
+                "apc_name_ar": "تاغيت",
+                "apc_name_ascii": "Taghit"
+            },
+            {
+                "apc_name_ar": "العبادلة",
+                "apc_name_ascii": "Abadla"
+            },
+            {
+                "apc_name_ar": "عرق فراج",
+                "apc_name_ascii": "Erg-Ferradj"
+            },
+            {
+                "apc_name_ar": "مشرع هواري بومدين",
+                "apc_name_ascii": "Machraa-Houari-Boumediene"
+            },
+            {
+                "apc_name_ar": "بني ونيف",
+                "apc_name_ascii": "Beni-Ounif"
+            },
+            {
+                "apc_name_ar": "تبلبالة",
+                "apc_name_ascii": "Tabelbala"
+            },
+            {
+                "apc_name_ar": "القنادسة",
+                "apc_name_ascii": "Kenadsa"
+            }
+        ]
+    },
+    "blida": {
+        "wilaya_code": "09",
+        "wilaya_name_ar": "البليدة",
+        "wilaya_name_ascii": "Blida",
+        "apcs": [
+            {
+                "apc_name_ar": "بني مراد",
+                "apc_name_ascii": "Beni Mered"
+            },
+            {
+                "apc_name_ar": "اولاد سلامة",
+                "apc_name_ascii": "Ouled Slama"
+            },
+            {
+                "apc_name_ar": "موزاية",
+                "apc_name_ascii": "Mouzaia"
+            },
+            {
+                "apc_name_ar": "حمام ملوان",
+                "apc_name_ascii": "Hammam Elouane"
+            },
+            {
+                "apc_name_ar": "بوقرة",
+                "apc_name_ascii": "Bougara"
+            },
+            {
+                "apc_name_ar": "صوحان",
+                "apc_name_ascii": "Souhane"
+            },
+            {
+                "apc_name_ar": "الأربعاء",
+                "apc_name_ascii": "Larbaa"
+            },
+            {
+                "apc_name_ar": "الصومعة",
+                "apc_name_ascii": "Soumaa"
+            },
+            {
+                "apc_name_ar": "قرواو",
+                "apc_name_ascii": "Guerrouaou"
+            },
+            {
+                "apc_name_ar": "بوفاريك",
+                "apc_name_ascii": "Boufarik"
+            },
+            {
+                "apc_name_ar": "مفتاح",
+                "apc_name_ascii": "Meftah"
+            },
+            {
+                "apc_name_ar": "الشفة",
+                "apc_name_ascii": "Chiffa"
+            },
+            {
+                "apc_name_ar": "عين الرمانة",
+                "apc_name_ascii": "Ain Romana"
+            },
+            {
+                "apc_name_ar": "وادي جر",
+                "apc_name_ascii": "Oued  Djer"
+            },
+            {
+                "apc_name_ar": "العفرون",
+                "apc_name_ascii": "El-Affroun"
+            },
+            {
+                "apc_name_ar": "أولاد يعيش",
+                "apc_name_ascii": "Ouled Yaich"
+            },
+            {
+                "apc_name_ar": "الشريعة",
+                "apc_name_ascii": "Chrea"
+            },
+            {
+                "apc_name_ar": "جبابرة",
+                "apc_name_ascii": "Djebabra"
+            },
+            {
+                "apc_name_ar": "وادي العلايق",
+                "apc_name_ascii": "Oued El Alleug"
+            },
+            {
+                "apc_name_ar": "بن خليل",
+                "apc_name_ascii": "Benkhelil"
+            },
+            {
+                "apc_name_ar": "بني تامو",
+                "apc_name_ascii": "Beni-Tamou"
+            },
+            {
+                "apc_name_ar": "الشبلي",
+                "apc_name_ascii": "Chebli"
+            },
+            {
+                "apc_name_ar": "بوعينان",
+                "apc_name_ascii": "Bouinan"
+            },
+            {
+                "apc_name_ar": "بوعرفة",
+                "apc_name_ascii": "Bouarfa"
+            },
+            {
+                "apc_name_ar": "البليدة",
+                "apc_name_ascii": "Blida"
+            }
+        ]
+    },
+    "bouira": {
+        "wilaya_code": "10",
+        "wilaya_name_ar": "البويرة",
+        "wilaya_name_ascii": "Bouira",
+        "apcs": [
+            {
+                "apc_name_ar": "عين العلوي",
+                "apc_name_ascii": "Ain Laloui"
+            },
+            {
+                "apc_name_ar": "الحجرة الزرقاء",
+                "apc_name_ascii": "Hadjera Zerga"
+            },
+            {
+                "apc_name_ar": "مزدور",
+                "apc_name_ascii": "Mezdour"
+            },
+            {
+                "apc_name_ar": "تاقديت",
+                "apc_name_ascii": "Taguedite"
+            },
+            {
+                "apc_name_ar": "ريدان",
+                "apc_name_ascii": "Ridane"
+            },
+            {
+                "apc_name_ar": "المعمورة",
+                "apc_name_ascii": "Maamora"
+            },
+            {
+                "apc_name_ar": "الحاكمية",
+                "apc_name_ascii": "El-Hakimia"
+            },
+            {
+                "apc_name_ar": "أهل القصر",
+                "apc_name_ascii": "Ahl El Ksar"
+            },
+            {
+                "apc_name_ar": "ديرة",
+                "apc_name_ascii": "Dirah"
+            },
+            {
+                "apc_name_ar": "الدشمية",
+                "apc_name_ascii": "Dechmia"
+            },
+            {
+                "apc_name_ar": "بشلول",
+                "apc_name_ascii": "Bechloul"
+            },
+            {
+                "apc_name_ar": "آث  منصور",
+                "apc_name_ascii": "Ath Mansour"
+            },
+            {
+                "apc_name_ar": "سحاريج",
+                "apc_name_ascii": "Saharidj"
+            },
+            {
+                "apc_name_ar": "العجيبة",
+                "apc_name_ascii": "El Adjiba"
+            },
+            {
+                "apc_name_ar": "الأسنام",
+                "apc_name_ascii": "El Asnam"
+            },
+            {
+                "apc_name_ar": "أمشدالة",
+                "apc_name_ascii": "M Chedallah"
+            },
+            {
+                "apc_name_ar": "برج أوخريص",
+                "apc_name_ascii": "Bordj Okhriss"
+            },
+            {
+                "apc_name_ar": "سور الغزلان",
+                "apc_name_ascii": "Sour El Ghozlane"
+            },
+            {
+                "apc_name_ar": "حنيف",
+                "apc_name_ascii": "Hanif"
+            },
+            {
+                "apc_name_ar": "شرفة",
+                "apc_name_ascii": "Chorfa"
+            },
+            {
+                "apc_name_ar": "أولاد راشد",
+                "apc_name_ascii": "Ouled Rached"
+            },
+            {
+                "apc_name_ar": "عين الحجر",
+                "apc_name_ascii": "Ain El Hadjar"
+            },
+            {
+                "apc_name_ar": "أغبالو",
+                "apc_name_ascii": "Aghbalou"
+            },
+            {
+                "apc_name_ar": "روراوة",
+                "apc_name_ascii": "Raouraoua"
+            },
+            {
+                "apc_name_ar": "الخبوزية",
+                "apc_name_ascii": "El Khabouzia"
+            },
+            {
+                "apc_name_ar": "بئر غبالو",
+                "apc_name_ascii": "Bir Ghbalou"
+            },
+            {
+                "apc_name_ar": "البويرة",
+                "apc_name_ascii": "Bouira"
+            },
+            {
+                "apc_name_ar": "عين الترك",
+                "apc_name_ascii": "Ain Turk"
+            },
+            {
+                "apc_name_ar": "أيت لعزيز",
+                "apc_name_ascii": "Ait Laaziz"
+            },
+            {
+                "apc_name_ar": "عين بسام",
+                "apc_name_ascii": "Ain-Bessem"
+            },
+            {
+                "apc_name_ar": "المقراني",
+                "apc_name_ascii": "El-Mokrani"
+            },
+            {
+                "apc_name_ar": "سوق الخميس",
+                "apc_name_ascii": "Souk El Khemis"
+            },
+            {
+                "apc_name_ar": "أعمر",
+                "apc_name_ascii": "Aomar"
+            },
+            {
+                "apc_name_ar": "جباحية",
+                "apc_name_ascii": "Djebahia"
+            },
+            {
+                "apc_name_ar": "الهاشمية",
+                "apc_name_ascii": "El Hachimia"
+            },
+            {
+                "apc_name_ar": "حيزر",
+                "apc_name_ascii": "Haizer"
+            },
+            {
+                "apc_name_ar": "تاغزوت",
+                "apc_name_ascii": "Taghzout"
+            },
+            {
+                "apc_name_ar": "بودربالة",
+                "apc_name_ascii": "Bouderbala"
+            },
+            {
+                "apc_name_ar": "بوكرم",
+                "apc_name_ascii": "Boukram"
+            },
+            {
+                "apc_name_ar": "قرومة",
+                "apc_name_ascii": "Guerrouma"
+            },
+            {
+                "apc_name_ar": "الأخضرية",
+                "apc_name_ascii": "Lakhdaria"
+            },
+            {
+                "apc_name_ar": "معلة",
+                "apc_name_ascii": "Maala"
+            },
+            {
+                "apc_name_ar": "قادرية",
+                "apc_name_ascii": "Kadiria"
+            },
+            {
+                "apc_name_ar": "زبربر",
+                "apc_name_ascii": "Z'barbar (El Isseri )"
+            },
+            {
+                "apc_name_ar": "وادي البردي",
+                "apc_name_ascii": "Oued El Berdi"
+            }
+        ]
+    },
+    "tamanrasset": {
+        "wilaya_code": "11",
+        "wilaya_name_ar": "تمنراست",
+        "wilaya_name_ascii": "Tamanrasset",
+        "apcs": [
+            {
+                "apc_name_ar": "تاظروك",
+                "apc_name_ascii": "Tazrouk"
+            },
+            {
+                "apc_name_ar": "ابلسة",
+                "apc_name_ascii": "Abelsa"
+            },
+            {
+                "apc_name_ar": "تمنراست",
+                "apc_name_ascii": "Tamanrasset"
+            },
+            {
+                "apc_name_ar": "عين امقل",
+                "apc_name_ascii": "Ain Amguel"
+            },
+            {
+                "apc_name_ar": "أدلس",
+                "apc_name_ascii": "Idles"
+            }
+        ]
+    },
+    "tébessa": {
+        "wilaya_code": "12",
+        "wilaya_name_ar": "تبسة",
+        "wilaya_name_ascii": "Tébessa",
+        "apcs": [
+            {
+                "apc_name_ar": "الحويجبات",
+                "apc_name_ascii": "El-Houidjbet"
+            },
+            {
+                "apc_name_ar": "العوينات",
+                "apc_name_ascii": "El-Aouinet"
+            },
+            {
+                "apc_name_ar": "فركان",
+                "apc_name_ascii": "Ferkane"
+            },
+            {
+                "apc_name_ar": "نقرين",
+                "apc_name_ascii": "Negrine"
+            },
+            {
+                "apc_name_ar": "بئر مقدم",
+                "apc_name_ascii": "Bir Mokkadem"
+            },
+            {
+                "apc_name_ar": "بئر الذهب",
+                "apc_name_ascii": "Bir Dheheb"
+            },
+            {
+                "apc_name_ar": "صفصاف الوسرى",
+                "apc_name_ascii": "Saf Saf El Ouesra"
+            },
+            {
+                "apc_name_ar": "قريقر",
+                "apc_name_ascii": "Guorriguer"
+            },
+            {
+                "apc_name_ar": "بكارية",
+                "apc_name_ascii": "Bekkaria"
+            },
+            {
+                "apc_name_ar": "بولحاف الدير",
+                "apc_name_ascii": "Boulhaf Dyr"
+            },
+            {
+                "apc_name_ar": "أم علي",
+                "apc_name_ascii": "Oum Ali"
+            },
+            {
+                "apc_name_ar": "بوخضرة",
+                "apc_name_ascii": "Boukhadra"
+            },
+            {
+                "apc_name_ar": "الماء الابيض",
+                "apc_name_ascii": "El Malabiod"
+            },
+            {
+                "apc_name_ar": "الونزة",
+                "apc_name_ascii": "Ouenza"
+            },
+            {
+                "apc_name_ar": "المريج",
+                "apc_name_ascii": "El Meridj"
+            },
+            {
+                "apc_name_ar": "عين الزرقاء",
+                "apc_name_ascii": "Ain Zerga"
+            },
+            {
+                "apc_name_ar": "سطح قنطيس",
+                "apc_name_ascii": "Stah Guentis"
+            },
+            {
+                "apc_name_ar": "العقلة",
+                "apc_name_ascii": "El Ogla"
+            },
+            {
+                "apc_name_ar": "المزرعة",
+                "apc_name_ascii": "El Mezeraa"
+            },
+            {
+                "apc_name_ar": "بجن",
+                "apc_name_ascii": "Bedjene"
+            },
+            {
+                "apc_name_ar": "مرسط",
+                "apc_name_ascii": "Morsott"
+            },
+            {
+                "apc_name_ar": "ثليجان",
+                "apc_name_ascii": "Telidjen"
+            },
+            {
+                "apc_name_ar": "الشريعة",
+                "apc_name_ascii": "Cheria"
+            },
+            {
+                "apc_name_ar": "العقلة المالحة",
+                "apc_name_ascii": "El Ogla El Malha"
+            },
+            {
+                "apc_name_ar": "بئر العاتر",
+                "apc_name_ascii": "Bir-El-Ater"
+            },
+            {
+                "apc_name_ar": "تبسة",
+                "apc_name_ascii": "Tebessa"
+            },
+            {
+                "apc_name_ar": "الحمامات",
+                "apc_name_ascii": "Hammamet"
+            },
+            {
+                "apc_name_ar": "الكويف",
+                "apc_name_ascii": "El Kouif"
+            }
+        ]
+    },
+    "tlemcen": {
+        "wilaya_code": "13",
+        "wilaya_name_ar": "تلمسان",
+        "wilaya_name_ascii": "Tlemcen",
+        "apcs": [
+            {
+                "apc_name_ar": "باب العسة",
+                "apc_name_ascii": "Bab El Assa"
+            },
+            {
+                "apc_name_ar": "تيرني بني هديل",
+                "apc_name_ascii": "Terny Beni Hediel"
+            },
+            {
+                "apc_name_ar": "منصورة",
+                "apc_name_ascii": "Mansourah"
+            },
+            {
+                "apc_name_ar": "بني مستر",
+                "apc_name_ascii": "Beni Mester"
+            },
+            {
+                "apc_name_ar": "عين غرابة",
+                "apc_name_ascii": "Ain Ghoraba"
+            },
+            {
+                "apc_name_ar": "شتوان",
+                "apc_name_ascii": "Chetouane"
+            },
+            {
+                "apc_name_ar": "عمير",
+                "apc_name_ascii": "Amieur"
+            },
+            {
+                "apc_name_ar": "عين فزة",
+                "apc_name_ascii": "Ain Fezza"
+            },
+            {
+                "apc_name_ar": "هنين",
+                "apc_name_ascii": "Honnaine"
+            },
+            {
+                "apc_name_ar": "بني خلاد",
+                "apc_name_ascii": "Beni Khellad"
+            },
+            {
+                "apc_name_ar": "سيدي الجيلالي",
+                "apc_name_ascii": "Sidi Djillali"
+            },
+            {
+                "apc_name_ar": "البويهي",
+                "apc_name_ascii": "Bouihi"
+            },
+            {
+                "apc_name_ar": "ندرومة",
+                "apc_name_ascii": "Nedroma"
+            },
+            {
+                "apc_name_ar": "مسيردة الفواقة",
+                "apc_name_ascii": "M'sirda Fouaga"
+            },
+            {
+                "apc_name_ar": "مرسى بن مهيدي",
+                "apc_name_ascii": "Marsa Ben M'hidi"
+            },
+            {
+                "apc_name_ar": "سيدي مجاهد",
+                "apc_name_ascii": "Sidi Medjahed"
+            },
+            {
+                "apc_name_ar": "بني بوسعيد",
+                "apc_name_ascii": "Beni Boussaid"
+            },
+            {
+                "apc_name_ar": "سبدو",
+                "apc_name_ascii": "Sebdou"
+            },
+            {
+                "apc_name_ar": "القور",
+                "apc_name_ascii": "El Gor"
+            },
+            {
+                "apc_name_ar": "العريشة",
+                "apc_name_ascii": "El Aricha"
+            },
+            {
+                "apc_name_ar": "بوحلو",
+                "apc_name_ascii": "Bouhlou"
+            },
+            {
+                "apc_name_ar": "مغنية",
+                "apc_name_ascii": "Maghnia"
+            },
+            {
+                "apc_name_ar": "حمام بوغرارة",
+                "apc_name_ascii": "Hammam Boughrara"
+            },
+            {
+                "apc_name_ar": "زناتة",
+                "apc_name_ascii": "Zenata"
+            },
+            {
+                "apc_name_ar": "أولاد رياح",
+                "apc_name_ascii": "Ouled Riyah"
+            },
+            {
+                "apc_name_ar": "الحناية",
+                "apc_name_ascii": "Hennaya"
+            },
+            {
+                "apc_name_ar": "سيدي العبدلي",
+                "apc_name_ascii": "Sidi Abdelli"
+            },
+            {
+                "apc_name_ar": "سوق الثلاثاء",
+                "apc_name_ascii": "Souk Tleta"
+            },
+            {
+                "apc_name_ar": "بن سكران",
+                "apc_name_ascii": "Bensekrane"
+            },
+            {
+                "apc_name_ar": "فلاوسن",
+                "apc_name_ascii": "Fellaoucene"
+            },
+            {
+                "apc_name_ar": "عين الكبيرة",
+                "apc_name_ascii": "Ain Kebira"
+            },
+            {
+                "apc_name_ar": "عين فتاح",
+                "apc_name_ascii": "Ain Fetah"
+            },
+            {
+                "apc_name_ar": "تلمسان",
+                "apc_name_ascii": "Tlemcen"
+            },
+            {
+                "apc_name_ar": "عين النحالة",
+                "apc_name_ascii": "Ain Nehala"
+            },
+            {
+                "apc_name_ar": "عين تالوت",
+                "apc_name_ascii": "Ain Tellout"
+            },
+            {
+                "apc_name_ar": "عين يوسف",
+                "apc_name_ascii": "Ain Youcef"
+            },
+            {
+                "apc_name_ar": "بني وارسوس",
+                "apc_name_ascii": "Beni Ouarsous"
+            },
+            {
+                "apc_name_ar": "الفحول",
+                "apc_name_ascii": "El Fehoul"
+            },
+            {
+                "apc_name_ar": "الرمشي",
+                "apc_name_ascii": "Remchi"
+            },
+            {
+                "apc_name_ar": "سبعة شيوخ",
+                "apc_name_ascii": "Sebbaa Chioukh"
+            },
+            {
+                "apc_name_ar": "السواني",
+                "apc_name_ascii": "Souani"
+            },
+            {
+                "apc_name_ar": "صبرة",
+                "apc_name_ascii": "Sabra"
+            },
+            {
+                "apc_name_ar": "دار يغمراسن",
+                "apc_name_ascii": "Dar Yaghmoracen"
+            },
+            {
+                "apc_name_ar": "الغزوات",
+                "apc_name_ascii": "Ghazaouet"
+            },
+            {
+                "apc_name_ar": "السواحلية",
+                "apc_name_ascii": "Souahlia"
+            },
+            {
+                "apc_name_ar": "تيانت",
+                "apc_name_ascii": "Tianet"
+            },
+            {
+                "apc_name_ar": "بني صميل",
+                "apc_name_ascii": "Beni Smiel"
+            },
+            {
+                "apc_name_ar": "وادي الخضر",
+                "apc_name_ascii": "Oued Lakhdar"
+            },
+            {
+                "apc_name_ar": "أولاد ميمون",
+                "apc_name_ascii": "Ouled Mimoun"
+            },
+            {
+                "apc_name_ar": "بني بهدل",
+                "apc_name_ascii": "Beni Bahdel"
+            },
+            {
+                "apc_name_ar": "بني سنوس",
+                "apc_name_ascii": "Beni Snous"
+            },
+            {
+                "apc_name_ar": "العزايل",
+                "apc_name_ascii": "Azail"
+            },
+            {
+                "apc_name_ar": "جبالة",
+                "apc_name_ascii": "Djebala"
+            }
+        ]
+    },
+    "tiaret": {
+        "wilaya_code": "14",
+        "wilaya_name_ar": "تيارت",
+        "wilaya_name_ascii": "Tiaret",
+        "apcs": [
+            {
+                "apc_name_ar": "مهدية",
+                "apc_name_ascii": "Mahdia"
+            },
+            {
+                "apc_name_ar": "عين دزاريت",
+                "apc_name_ascii": "Ain Dzarit"
+            },
+            {
+                "apc_name_ar": "السبعين",
+                "apc_name_ascii": "Sebaine"
+            },
+            {
+                "apc_name_ar": "الفايجة",
+                "apc_name_ascii": "Faidja"
+            },
+            {
+                "apc_name_ar": "سي عبد الغني",
+                "apc_name_ascii": "Si Abdelghani"
+            },
+            {
+                "apc_name_ar": "السوقر",
+                "apc_name_ascii": "Sougueur"
+            },
+            {
+                "apc_name_ar": "توسنينة",
+                "apc_name_ascii": "Tousnina"
+            },
+            {
+                "apc_name_ar": "مغيلة",
+                "apc_name_ascii": "Meghila"
+            },
+            {
+                "apc_name_ar": "السبت",
+                "apc_name_ascii": "Sebt"
+            },
+            {
+                "apc_name_ar": "سيدي حسني",
+                "apc_name_ascii": "Sidi Hosni"
+            },
+            {
+                "apc_name_ar": "عين الحديد",
+                "apc_name_ascii": "Ain El Hadid"
+            },
+            {
+                "apc_name_ar": "فرندة",
+                "apc_name_ascii": "Frenda"
+            },
+            {
+                "apc_name_ar": "تخمرت",
+                "apc_name_ascii": "Takhemaret"
+            },
+            {
+                "apc_name_ar": "عين كرمس",
+                "apc_name_ascii": "Ain Kermes"
+            },
+            {
+                "apc_name_ar": "جبيلات الرصفاء",
+                "apc_name_ascii": "Djebilet Rosfa"
+            },
+            {
+                "apc_name_ar": "مادنة",
+                "apc_name_ascii": "Madna"
+            },
+            {
+                "apc_name_ar": "مدريسة",
+                "apc_name_ascii": "Medrissa"
+            },
+            {
+                "apc_name_ar": "سيدي عبد الرحمن",
+                "apc_name_ascii": "Sidi Abderrahmane"
+            },
+            {
+                "apc_name_ar": "قصر الشلالة",
+                "apc_name_ascii": "Ksar Chellala"
+            },
+            {
+                "apc_name_ar": "قرطوفة",
+                "apc_name_ascii": "Guertoufa"
+            },
+            {
+                "apc_name_ar": "سرغين",
+                "apc_name_ascii": "Serghine"
+            },
+            {
+                "apc_name_ar": "زمالة  الأمير عبد القادر",
+                "apc_name_ascii": "Zmalet El Emir Abdelkade"
+            },
+            {
+                "apc_name_ar": "وادي ليلي",
+                "apc_name_ascii": "Oued Lilli"
+            },
+            {
+                "apc_name_ar": "سيدي علي ملال",
+                "apc_name_ascii": "Sidi Ali Mellal"
+            },
+            {
+                "apc_name_ar": "جيلالي بن عمار",
+                "apc_name_ascii": "Djillali Ben Amar"
+            },
+            {
+                "apc_name_ar": "مشرع الصفا",
+                "apc_name_ascii": "Mechraa Safa"
+            },
+            {
+                "apc_name_ar": "تاقدمت",
+                "apc_name_ascii": "Tagdempt"
+            },
+            {
+                "apc_name_ar": "بوقرة",
+                "apc_name_ascii": "Bougara"
+            },
+            {
+                "apc_name_ar": "حمادية",
+                "apc_name_ascii": "Hamadia"
+            },
+            {
+                "apc_name_ar": "الرشايقة",
+                "apc_name_ascii": "Rechaiga"
+            },
+            {
+                "apc_name_ar": "تيدة",
+                "apc_name_ascii": "Tidda"
+            },
+            {
+                "apc_name_ar": "الناظورة",
+                "apc_name_ascii": "Nadorah"
+            },
+            {
+                "apc_name_ar": "تيارت",
+                "apc_name_ascii": "Tiaret"
+            },
+            {
+                "apc_name_ar": "مدروسة",
+                "apc_name_ascii": "Medroussa"
+            },
+            {
+                "apc_name_ar": "ملاكو",
+                "apc_name_ascii": "Mellakou"
+            },
+            {
+                "apc_name_ar": "سيدي بختي",
+                "apc_name_ascii": "Sidi Bakhti"
+            },
+            {
+                "apc_name_ar": "عين الذهب",
+                "apc_name_ascii": "Ain Deheb"
+            },
+            {
+                "apc_name_ar": "شحيمة",
+                "apc_name_ascii": "Chehaima"
+            },
+            {
+                "apc_name_ar": "النعيمة",
+                "apc_name_ascii": "Naima"
+            },
+            {
+                "apc_name_ar": "عين بوشقيف",
+                "apc_name_ascii": "Ain Bouchekif"
+            },
+            {
+                "apc_name_ar": "دحموني",
+                "apc_name_ascii": "Dahmouni"
+            },
+            {
+                "apc_name_ar": "الرحوية",
+                "apc_name_ascii": "Rahouia"
+            }
+        ]
+    },
+    "tizi_ouzou": {
+        "wilaya_code": "15",
+        "wilaya_name_ar": "تيزي وزو",
+        "wilaya_name_ascii": "Tizi Ouzou",
+        "apcs": [
+            {
+                "apc_name_ar": "ميزرانـــة",
+                "apc_name_ascii": "Mizrana"
+            },
+            {
+                "apc_name_ar": "إيجــار",
+                "apc_name_ascii": "Idjeur"
+            },
+            {
+                "apc_name_ar": "بني دوالة",
+                "apc_name_ascii": "Beni-Douala"
+            },
+            {
+                "apc_name_ar": "بني زيكــي",
+                "apc_name_ascii": "Beni-Zikki"
+            },
+            {
+                "apc_name_ar": "إيلولة أومـــالو",
+                "apc_name_ascii": "Illoula Oumalou"
+            },
+            {
+                "apc_name_ar": "أقني قغران",
+                "apc_name_ascii": "Agouni-Gueghrane"
+            },
+            {
+                "apc_name_ar": "أيت بــوادو",
+                "apc_name_ascii": "Ait Bouaddou"
+            },
+            {
+                "apc_name_ar": "واضية",
+                "apc_name_ascii": "Ouadhias"
+            },
+            {
+                "apc_name_ar": "تيزي نثلاثة",
+                "apc_name_ascii": "Tizi N'tleta"
+            },
+            {
+                "apc_name_ar": "أغريب",
+                "apc_name_ascii": "Aghribs"
+            },
+            {
+                "apc_name_ar": "أيت شافع",
+                "apc_name_ascii": "Ait-Chafaa"
+            },
+            {
+                "apc_name_ar": "أقرو",
+                "apc_name_ascii": "Akerrou"
+            },
+            {
+                "apc_name_ar": "أزفون",
+                "apc_name_ascii": "Azeffoun"
+            },
+            {
+                "apc_name_ar": "إفليـــسن",
+                "apc_name_ascii": "Iflissen"
+            },
+            {
+                "apc_name_ar": "تيقـزيرت",
+                "apc_name_ascii": "Tigzirt"
+            },
+            {
+                "apc_name_ar": "أسي يوسف",
+                "apc_name_ascii": "Assi-Youcef"
+            },
+            {
+                "apc_name_ar": "بوغني",
+                "apc_name_ascii": "Boghni"
+            },
+            {
+                "apc_name_ar": "بونوح",
+                "apc_name_ascii": "Bounouh"
+            },
+            {
+                "apc_name_ar": "مشطراس",
+                "apc_name_ascii": "Mechtras"
+            },
+            {
+                "apc_name_ar": "ذراع بن خدة",
+                "apc_name_ascii": "Draa-Ben-Khedda"
+            },
+            {
+                "apc_name_ar": "سيدي نعمان",
+                "apc_name_ascii": "Sidi Namane"
+            },
+            {
+                "apc_name_ar": "تادمايت",
+                "apc_name_ascii": "Tadmait"
+            },
+            {
+                "apc_name_ar": "تيرمتين",
+                "apc_name_ascii": "Tirmitine"
+            },
+            {
+                "apc_name_ar": "أيت بومهدي",
+                "apc_name_ascii": "Ait Boumahdi"
+            },
+            {
+                "apc_name_ar": "أيت تودرت",
+                "apc_name_ascii": "Ait-Toudert"
+            },
+            {
+                "apc_name_ar": "بني عيسي",
+                "apc_name_ascii": "Beni-Aissi"
+            },
+            {
+                "apc_name_ar": "واسيف",
+                "apc_name_ascii": "Ouacif"
+            },
+            {
+                "apc_name_ar": "أيت خليلي",
+                "apc_name_ascii": "Ait Khellili"
+            },
+            {
+                "apc_name_ar": "مقــلع",
+                "apc_name_ascii": "Mekla"
+            },
+            {
+                "apc_name_ar": "صوامـــع",
+                "apc_name_ascii": "Souama"
+            },
+            {
+                "apc_name_ar": "بني يني",
+                "apc_name_ascii": "Beni-Yenni"
+            },
+            {
+                "apc_name_ar": "إبودرارن",
+                "apc_name_ascii": "Iboudrarene"
+            },
+            {
+                "apc_name_ar": "تيزي وزو",
+                "apc_name_ascii": "Tizi-Ouzou"
+            },
+            {
+                "apc_name_ar": "أبي يوسف",
+                "apc_name_ascii": "Abi-Youcef"
+            },
+            {
+                "apc_name_ar": "عين الحمام",
+                "apc_name_ascii": "Ain-El-Hammam"
+            },
+            {
+                "apc_name_ar": "أيت يحيى",
+                "apc_name_ascii": "Ait-Yahia"
+            },
+            {
+                "apc_name_ar": "اقبيل",
+                "apc_name_ascii": "Akbil"
+            },
+            {
+                "apc_name_ar": "بوجيمة",
+                "apc_name_ascii": "Boudjima"
+            },
+            {
+                "apc_name_ar": "ماكودة",
+                "apc_name_ascii": "Makouda"
+            },
+            {
+                "apc_name_ar": "عين الزاوية",
+                "apc_name_ascii": "Ain-Zaouia"
+            },
+            {
+                "apc_name_ar": "أيت يحي موسى",
+                "apc_name_ascii": "Ait Yahia Moussa"
+            },
+            {
+                "apc_name_ar": "ذراع الميزان",
+                "apc_name_ascii": "Draa-El-Mizan"
+            },
+            {
+                "apc_name_ar": "فريقات",
+                "apc_name_ascii": "Frikat"
+            },
+            {
+                "apc_name_ar": "مكيرة",
+                "apc_name_ascii": "M'kira"
+            },
+            {
+                "apc_name_ar": "تيزي غنيف",
+                "apc_name_ascii": "Tizi-Gheniff"
+            },
+            {
+                "apc_name_ar": "يطــافن",
+                "apc_name_ascii": "Yatafene"
+            },
+            {
+                "apc_name_ar": "إيلـيــلتـن",
+                "apc_name_ascii": "Illilten"
+            },
+            {
+                "apc_name_ar": "إمســوحال",
+                "apc_name_ascii": "Imsouhal"
+            },
+            {
+                "apc_name_ar": "عزازقة",
+                "apc_name_ascii": "Azazga"
+            },
+            {
+                "apc_name_ar": "فريحة",
+                "apc_name_ascii": "Freha"
+            },
+            {
+                "apc_name_ar": "إيفيغاء",
+                "apc_name_ascii": "Ifigha"
+            },
+            {
+                "apc_name_ar": "إعــكورن",
+                "apc_name_ascii": "Yakourene"
+            },
+            {
+                "apc_name_ar": "زكري",
+                "apc_name_ascii": "Zekri"
+            },
+            {
+                "apc_name_ar": "أيت عقـواشة",
+                "apc_name_ascii": "Ait Aggouacha"
+            },
+            {
+                "apc_name_ar": "إيرجـــن",
+                "apc_name_ascii": "Irdjen"
+            },
+            {
+                "apc_name_ar": "الأربعــاء ناث إيراثن",
+                "apc_name_ascii": "Larbaa Nath Irathen"
+            },
+            {
+                "apc_name_ar": "أيت  أومالو",
+                "apc_name_ascii": "Ait-Oumalou"
+            },
+            {
+                "apc_name_ar": "تيزي راشد",
+                "apc_name_ascii": "Tizi-Rached"
+            },
+            {
+                "apc_name_ar": "أيت عيسى ميمون",
+                "apc_name_ascii": "Ait-Aissa-Mimoun"
+            },
+            {
+                "apc_name_ar": "واقنون",
+                "apc_name_ascii": "Ouaguenoun"
+            },
+            {
+                "apc_name_ar": "تيمـيزار",
+                "apc_name_ascii": "Timizart"
+            },
+            {
+                "apc_name_ar": "معـــاتقة",
+                "apc_name_ascii": "Maatkas"
+            },
+            {
+                "apc_name_ar": "سوق الإثنين",
+                "apc_name_ascii": "Souk-El-Tenine"
+            },
+            {
+                "apc_name_ar": "أيت محمود",
+                "apc_name_ascii": "Ait-Mahmoud"
+            },
+            {
+                "apc_name_ar": "بنــــي زمنزار",
+                "apc_name_ascii": "Beni Zmenzer"
+            },
+            {
+                "apc_name_ar": "إفــرحــونان",
+                "apc_name_ascii": "Iferhounene"
+            },
+            {
+                "apc_name_ar": "بوزقــن",
+                "apc_name_ascii": "Bouzeguene"
+            }
+        ]
+    },
+    "alger": {
+        "wilaya_code": "16",
+        "wilaya_name_ar": "الجزائر",
+        "wilaya_name_ascii": "Alger",
+        "apcs": [
+            {
+                "apc_name_ar": "حسين داي",
+                "apc_name_ascii": "Hussein Dey"
+            },
+            {
+                "apc_name_ar": "الكاليتوس",
+                "apc_name_ascii": "Les Eucalyptus"
+            },
+            {
+                "apc_name_ar": "سيدي موسى",
+                "apc_name_ascii": "Sidi Moussa"
+            },
+            {
+                "apc_name_ar": "القبة",
+                "apc_name_ascii": "Kouba"
+            },
+            {
+                "apc_name_ar": "محمد بلوزداد",
+                "apc_name_ascii": "Mohamed Belouzdad"
+            },
+            {
+                "apc_name_ar": "عين طاية",
+                "apc_name_ascii": "Ain Taya"
+            },
+            {
+                "apc_name_ar": "باب الزوار",
+                "apc_name_ascii": "Bab Ezzouar"
+            },
+            {
+                "apc_name_ar": "برج الكيفان",
+                "apc_name_ascii": "Bordj El Kiffan"
+            },
+            {
+                "apc_name_ar": "الدار البيضاء",
+                "apc_name_ascii": "Dar El Beida"
+            },
+            {
+                "apc_name_ar": "المرسى",
+                "apc_name_ascii": "El Marsa"
+            },
+            {
+                "apc_name_ar": "المحمدية",
+                "apc_name_ascii": "Mohammadia"
+            },
+            {
+                "apc_name_ar": "بئر توتة",
+                "apc_name_ascii": "Bir Touta"
+            },
+            {
+                "apc_name_ar": "اولاد شبل",
+                "apc_name_ascii": "Ouled Chebel"
+            },
+            {
+                "apc_name_ar": "تسالة المرجة",
+                "apc_name_ascii": "Tessala El Merdja"
+            },
+            {
+                "apc_name_ar": "هراوة",
+                "apc_name_ascii": "Herraoua"
+            },
+            {
+                "apc_name_ar": "رغاية",
+                "apc_name_ascii": "Reghaia"
+            },
+            {
+                "apc_name_ar": "الرويبة",
+                "apc_name_ascii": "Rouiba"
+            },
+            {
+                "apc_name_ar": "المعالمة",
+                "apc_name_ascii": "Maalma"
+            },
+            {
+                "apc_name_ar": "الرحمانية",
+                "apc_name_ascii": "Rahmania"
+            },
+            {
+                "apc_name_ar": "سويدانية",
+                "apc_name_ascii": "Souidania"
+            },
+            {
+                "apc_name_ar": "سطاوالي",
+                "apc_name_ascii": "Staoueli"
+            },
+            {
+                "apc_name_ar": "زرالدة",
+                "apc_name_ascii": "Zeralda"
+            },
+            {
+                "apc_name_ar": "بابا حسن",
+                "apc_name_ascii": "Baba Hassen"
+            },
+            {
+                "apc_name_ar": "الدويرة",
+                "apc_name_ascii": "Douira"
+            },
+            {
+                "apc_name_ar": "الدرارية",
+                "apc_name_ascii": "Draria"
+            },
+            {
+                "apc_name_ar": "العاشور",
+                "apc_name_ascii": "El Achour"
+            },
+            {
+                "apc_name_ar": "الخرايسية",
+                "apc_name_ascii": "Khraissia"
+            },
+            {
+                "apc_name_ar": "عين بنيان",
+                "apc_name_ascii": "Ain Benian"
+            },
+            {
+                "apc_name_ar": "الشراقة",
+                "apc_name_ascii": "Cheraga"
+            },
+            {
+                "apc_name_ar": "دالي ابراهيم",
+                "apc_name_ascii": "Dely Ibrahim"
+            },
+            {
+                "apc_name_ar": "الحمامات",
+                "apc_name_ascii": "Hammamet"
+            },
+            {
+                "apc_name_ar": "اولاد فايت",
+                "apc_name_ascii": "Ouled Fayet"
+            },
+            {
+                "apc_name_ar": "الجزائر الوسطى",
+                "apc_name_ascii": "Alger Centre"
+            },
+            {
+                "apc_name_ar": "المدنية",
+                "apc_name_ascii": "El Madania"
+            },
+            {
+                "apc_name_ar": "المرادية",
+                "apc_name_ascii": "El Mouradia"
+            },
+            {
+                "apc_name_ar": "سيدي امحمد",
+                "apc_name_ascii": "Sidi M'hamed"
+            },
+            {
+                "apc_name_ar": "السحاولة",
+                "apc_name_ascii": "Sehaoula"
+            },
+            {
+                "apc_name_ar": "بولوغين بن زيري",
+                "apc_name_ascii": "Bologhine Ibnou Ziri"
+            },
+            {
+                "apc_name_ar": "القصبة",
+                "apc_name_ascii": "Casbah"
+            },
+            {
+                "apc_name_ar": "وادي قريش",
+                "apc_name_ascii": "Oued Koriche"
+            },
+            {
+                "apc_name_ar": "الرايس حميدو",
+                "apc_name_ascii": "Rais Hamidou"
+            },
+            {
+                "apc_name_ar": "بئر مراد رايس",
+                "apc_name_ascii": "Bir Mourad Rais"
+            },
+            {
+                "apc_name_ar": "بئر خادم",
+                "apc_name_ascii": "Birkhadem"
+            },
+            {
+                "apc_name_ar": "جسر قسنطينة",
+                "apc_name_ascii": "Djasr Kasentina"
+            },
+            {
+                "apc_name_ar": "حيدرة",
+                "apc_name_ascii": "Hydra"
+            },
+            {
+                "apc_name_ar": "المغارية",
+                "apc_name_ascii": "El Magharia"
+            },
+            {
+                "apc_name_ar": "ابن عكنون",
+                "apc_name_ascii": "Ben Aknoun"
+            },
+            {
+                "apc_name_ar": "بني مسوس",
+                "apc_name_ascii": "Beni Messous"
+            },
+            {
+                "apc_name_ar": "بوزريعة",
+                "apc_name_ascii": "Bouzareah"
+            },
+            {
+                "apc_name_ar": "الابيار",
+                "apc_name_ascii": "El Biar"
+            },
+            {
+                "apc_name_ar": "باش جراح",
+                "apc_name_ascii": "Bachedjerah"
+            },
+            {
+                "apc_name_ar": "بوروبة",
+                "apc_name_ascii": "Bourouba"
+            },
+            {
+                "apc_name_ar": "الحراش",
+                "apc_name_ascii": "El Harrach"
+            },
+            {
+                "apc_name_ar": "وادي السمار",
+                "apc_name_ascii": "Oued Smar"
+            },
+            {
+                "apc_name_ar": "براقي",
+                "apc_name_ascii": "Baraki"
+            },
+            {
+                "apc_name_ar": "برج البحري",
+                "apc_name_ascii": "Bordj El Bahri"
+            },
+            {
+                "apc_name_ar": "باب الوادي",
+                "apc_name_ascii": "Bab El Oued"
+            }
+        ]
+    },
+    "djelfa": {
+        "wilaya_code": "17",
+        "wilaya_name_ar": "الجلفة",
+        "wilaya_name_ascii": "Djelfa",
+        "apcs": [
+            {
+                "apc_name_ar": "حاسي العش",
+                "apc_name_ascii": "Hassi El Euch"
+            },
+            {
+                "apc_name_ar": "عين الإبل",
+                "apc_name_ascii": "Ain El Ibel"
+            },
+            {
+                "apc_name_ar": "القديد",
+                "apc_name_ascii": "El Guedid"
+            },
+            {
+                "apc_name_ar": "الشارف",
+                "apc_name_ascii": "Charef"
+            },
+            {
+                "apc_name_ar": "بن يعقوب",
+                "apc_name_ascii": "Benyagoub"
+            },
+            {
+                "apc_name_ar": "سيدي بايزيد",
+                "apc_name_ascii": "Sidi Baizid"
+            },
+            {
+                "apc_name_ar": "مليليحة",
+                "apc_name_ascii": "M'liliha"
+            },
+            {
+                "apc_name_ar": "دار الشيوخ",
+                "apc_name_ascii": "Dar Chioukh"
+            },
+            {
+                "apc_name_ar": "تعظميت",
+                "apc_name_ascii": "Taadmit"
+            },
+            {
+                "apc_name_ar": "حد الصحاري",
+                "apc_name_ascii": "Had Sahary"
+            },
+            {
+                "apc_name_ar": "بويرة الأحداب",
+                "apc_name_ascii": "Bouira Lahdab"
+            },
+            {
+                "apc_name_ar": "عين فقه",
+                "apc_name_ascii": "Ain Fekka"
+            },
+            {
+                "apc_name_ar": "سيدي لعجال",
+                "apc_name_ascii": "Sidi Laadjel"
+            },
+            {
+                "apc_name_ar": "حاسي فدول",
+                "apc_name_ascii": "Hassi Fedoul"
+            },
+            {
+                "apc_name_ar": "الخميس",
+                "apc_name_ascii": "El Khemis"
+            },
+            {
+                "apc_name_ar": "سلمانة",
+                "apc_name_ascii": "Selmana"
+            },
+            {
+                "apc_name_ar": "سد الرحال",
+                "apc_name_ascii": "Sed Rahal"
+            },
+            {
+                "apc_name_ar": "مسعد",
+                "apc_name_ascii": "Messaad"
+            },
+            {
+                "apc_name_ar": "قطارة",
+                "apc_name_ascii": "Guettara"
+            },
+            {
+                "apc_name_ar": "دلدول",
+                "apc_name_ascii": "Deldoul"
+            },
+            {
+                "apc_name_ar": "زكار",
+                "apc_name_ascii": "Zaccar"
+            },
+            {
+                "apc_name_ar": "دويس",
+                "apc_name_ascii": "Douis"
+            },
+            {
+                "apc_name_ar": "الادريسية",
+                "apc_name_ascii": "El Idrissia"
+            },
+            {
+                "apc_name_ar": "عين الشهداء",
+                "apc_name_ascii": "Ain Chouhada"
+            },
+            {
+                "apc_name_ar": "الجلفة",
+                "apc_name_ascii": "Djelfa"
+            },
+            {
+                "apc_name_ar": "بيرين",
+                "apc_name_ascii": "Birine"
+            },
+            {
+                "apc_name_ar": "أم العظام",
+                "apc_name_ascii": "Oum Laadham"
+            },
+            {
+                "apc_name_ar": "فيض البطمة",
+                "apc_name_ascii": "Faidh El Botma"
+            },
+            {
+                "apc_name_ar": "عمورة",
+                "apc_name_ascii": "Amourah"
+            },
+            {
+                "apc_name_ar": "زعفران",
+                "apc_name_ascii": "Zaafrane"
+            },
+            {
+                "apc_name_ar": "قرنيني",
+                "apc_name_ascii": "Guernini"
+            },
+            {
+                "apc_name_ar": "عين وسارة",
+                "apc_name_ascii": "Ain Oussera"
+            },
+            {
+                "apc_name_ar": "بنهار",
+                "apc_name_ascii": "Benhar"
+            },
+            {
+                "apc_name_ar": "عين معبد",
+                "apc_name_ascii": "Ain Maabed"
+            },
+            {
+                "apc_name_ar": "حاسي بحبح",
+                "apc_name_ascii": "Hassi Bahbah"
+            },
+            {
+                "apc_name_ar": "مجبارة",
+                "apc_name_ascii": "Moudjebara"
+            }
+        ]
+    },
+    "jijel": {
+        "wilaya_code": "18",
+        "wilaya_name_ar": "جيجل",
+        "wilaya_name_ascii": "Jijel",
+        "apcs": [
+            {
+                "apc_name_ar": "جيجل",
+                "apc_name_ascii": "Jijel"
+            },
+            {
+                "apc_name_ar": "العوانة",
+                "apc_name_ascii": "El Aouana"
+            },
+            {
+                "apc_name_ar": "سلمى بن زيادة",
+                "apc_name_ascii": "Selma Benziada"
+            },
+            {
+                "apc_name_ar": "أراقن سويسي",
+                "apc_name_ascii": "Erraguene Souissi"
+            },
+            {
+                "apc_name_ar": "بوسيف أولاد عسكر",
+                "apc_name_ascii": "Boussif Ouled Askeur"
+            },
+            {
+                "apc_name_ar": "زيامة منصورية",
+                "apc_name_ascii": "Ziama Mansouriah"
+            },
+            {
+                "apc_name_ar": "الشحنة",
+                "apc_name_ascii": "Chahna"
+            },
+            {
+                "apc_name_ar": "الامير عبد القادر",
+                "apc_name_ascii": "Emir Abdelkader"
+            },
+            {
+                "apc_name_ar": "وجانة",
+                "apc_name_ascii": "Oudjana"
+            },
+            {
+                "apc_name_ar": "الطاهير",
+                "apc_name_ascii": "Taher"
+            },
+            {
+                "apc_name_ar": "الشقفة",
+                "apc_name_ascii": "Chekfa"
+            },
+            {
+                "apc_name_ar": "القنار نشفي",
+                "apc_name_ascii": "El Kennar Nouchfi"
+            },
+            {
+                "apc_name_ar": "سيدي عبد العزيز",
+                "apc_name_ascii": "Sidi Abdelaziz"
+            },
+            {
+                "apc_name_ar": "الميلية",
+                "apc_name_ascii": "El Milia"
+            },
+            {
+                "apc_name_ar": "أولاد يحيى خدروش",
+                "apc_name_ascii": "Ouled Yahia Khadrouch"
+            },
+            {
+                "apc_name_ar": "أولاد رابح",
+                "apc_name_ascii": "Ouled Rabah"
+            },
+            {
+                "apc_name_ar": "سيدي معروف",
+                "apc_name_ascii": "Sidi Marouf"
+            },
+            {
+                "apc_name_ar": "غبالة",
+                "apc_name_ascii": "Ghebala"
+            },
+            {
+                "apc_name_ar": "السطارة",
+                "apc_name_ascii": "Settara"
+            },
+            {
+                "apc_name_ar": "بوراوي بلهادف",
+                "apc_name_ascii": "Bouraoui Belhadef"
+            },
+            {
+                "apc_name_ar": "العنصر",
+                "apc_name_ascii": "El Ancer"
+            },
+            {
+                "apc_name_ar": "خيري واد عجول",
+                "apc_name_ascii": "Khiri Oued Adjoul"
+            },
+            {
+                "apc_name_ar": "جيملة",
+                "apc_name_ascii": "Djimla"
+            },
+            {
+                "apc_name_ar": "قاوس",
+                "apc_name_ascii": "Kaous"
+            },
+            {
+                "apc_name_ar": "تاكسنة",
+                "apc_name_ascii": "Texenna"
+            },
+            {
+                "apc_name_ar": "برج الطهر",
+                "apc_name_ascii": "Bordj T'har"
+            },
+            {
+                "apc_name_ar": "بودريعة بني  ياجيس",
+                "apc_name_ascii": "Boudria Beniyadjis"
+            },
+            {
+                "apc_name_ar": "الجمعة بني حبيبي",
+                "apc_name_ascii": "Djemaa Beni Habibi"
+            }
+        ]
+    },
+    "sétif": {
+        "wilaya_code": "19",
+        "wilaya_name_ar": "سطيف",
+        "wilaya_name_ascii": "Sétif",
+        "apcs": [
+            {
+                "apc_name_ar": "الرصفة",
+                "apc_name_ascii": "Rosfa"
+            },
+            {
+                "apc_name_ar": "واد البارد",
+                "apc_name_ascii": "Oued El Bared"
+            },
+            {
+                "apc_name_ar": "تيزي نبشار",
+                "apc_name_ascii": "Tizi N'bechar"
+            },
+            {
+                "apc_name_ar": "مزلوق",
+                "apc_name_ascii": "Mezloug"
+            },
+            {
+                "apc_name_ar": "قلال",
+                "apc_name_ascii": "Guellal"
+            },
+            {
+                "apc_name_ar": "قصر الابطال",
+                "apc_name_ascii": "Kasr El Abtal"
+            },
+            {
+                "apc_name_ar": "أولاد سي أحمد",
+                "apc_name_ascii": "Ouled Si Ahmed"
+            },
+            {
+                "apc_name_ar": "أيت نوال مزادة",
+                "apc_name_ascii": "Ait Naoual Mezada"
+            },
+            {
+                "apc_name_ar": "ايت تيزي",
+                "apc_name_ascii": "Ait-Tizi"
+            },
+            {
+                "apc_name_ar": "بوعنداس",
+                "apc_name_ascii": "Bouandas"
+            },
+            {
+                "apc_name_ar": "بوسلام",
+                "apc_name_ascii": "Bousselam"
+            },
+            {
+                "apc_name_ar": "حمام السخنة",
+                "apc_name_ascii": "Hamam Soukhna"
+            },
+            {
+                "apc_name_ar": "الطاية",
+                "apc_name_ascii": "Taya"
+            },
+            {
+                "apc_name_ar": "التلة",
+                "apc_name_ascii": "Tella"
+            },
+            {
+                "apc_name_ar": "عين ولمان",
+                "apc_name_ascii": "Ain Oulmene"
+            },
+            {
+                "apc_name_ar": "بوطالب",
+                "apc_name_ascii": "Boutaleb"
+            },
+            {
+                "apc_name_ar": "الحامة",
+                "apc_name_ascii": "Hamma"
+            },
+            {
+                "apc_name_ar": "أولاد تبان",
+                "apc_name_ascii": "Ouled Tebben"
+            },
+            {
+                "apc_name_ar": "عموشة",
+                "apc_name_ascii": "Amoucha"
+            },
+            {
+                "apc_name_ar": "صالح باي",
+                "apc_name_ascii": "Salah Bey"
+            },
+            {
+                "apc_name_ar": "عين أزال",
+                "apc_name_ascii": "Ain Azel"
+            },
+            {
+                "apc_name_ar": "عين الحجر",
+                "apc_name_ascii": "Ain Lahdjar"
+            },
+            {
+                "apc_name_ar": "بيضاء برج",
+                "apc_name_ascii": "Beidha Bordj"
+            },
+            {
+                "apc_name_ar": "بئر حدادة",
+                "apc_name_ascii": "Bir Haddada"
+            },
+            {
+                "apc_name_ar": "قنزات",
+                "apc_name_ascii": "Guenzet"
+            },
+            {
+                "apc_name_ar": "حربيل",
+                "apc_name_ascii": "Harbil"
+            },
+            {
+                "apc_name_ar": "عين الروى",
+                "apc_name_ascii": "Ain-Roua"
+            },
+            {
+                "apc_name_ar": "بني وسين",
+                "apc_name_ascii": "Beni Oussine"
+            },
+            {
+                "apc_name_ar": "أوريسيا",
+                "apc_name_ascii": "El Ouricia"
+            },
+            {
+                "apc_name_ar": "بوقاعة",
+                "apc_name_ascii": "Bougaa"
+            },
+            {
+                "apc_name_ar": "ذراع قبيلة",
+                "apc_name_ascii": "Draa-Kebila"
+            },
+            {
+                "apc_name_ar": "حمام قرقور",
+                "apc_name_ascii": "Hammam Guergour"
+            },
+            {
+                "apc_name_ar": "سطيف",
+                "apc_name_ascii": "Setif"
+            },
+            {
+                "apc_name_ar": "عين الكبيرة",
+                "apc_name_ascii": "Ain El Kebira"
+            },
+            {
+                "apc_name_ar": "الدهامشة",
+                "apc_name_ascii": "Dehamcha"
+            },
+            {
+                "apc_name_ar": "أولاد عدوان",
+                "apc_name_ascii": "Ouled Addouane"
+            },
+            {
+                "apc_name_ar": "عين السبت",
+                "apc_name_ascii": "Ain-Sebt"
+            },
+            {
+                "apc_name_ar": "بني عزيز",
+                "apc_name_ascii": "Beni-Aziz"
+            },
+            {
+                "apc_name_ar": "معاوية",
+                "apc_name_ascii": "Maaouia"
+            },
+            {
+                "apc_name_ar": "بلاعة",
+                "apc_name_ascii": "Bellaa"
+            },
+            {
+                "apc_name_ar": "بئر العرش",
+                "apc_name_ascii": "Bir-El-Arch"
+            },
+            {
+                "apc_name_ar": "الولجة",
+                "apc_name_ascii": "El-Ouldja"
+            },
+            {
+                "apc_name_ar": "تاشودة",
+                "apc_name_ascii": "Tachouda"
+            },
+            {
+                "apc_name_ar": "تالة إيفاسن",
+                "apc_name_ascii": "Tala-Ifacene"
+            },
+            {
+                "apc_name_ar": "سرج الغول",
+                "apc_name_ascii": "Serdj-El-Ghoul"
+            },
+            {
+                "apc_name_ar": "قجال",
+                "apc_name_ascii": "Guidjel"
+            },
+            {
+                "apc_name_ar": "أولاد صابر",
+                "apc_name_ascii": "Ouled Sabor"
+            },
+            {
+                "apc_name_ar": "بازر سكرة",
+                "apc_name_ascii": "Bazer-Sakra"
+            },
+            {
+                "apc_name_ar": "العلمة",
+                "apc_name_ascii": "El Eulma"
+            },
+            {
+                "apc_name_ar": "قلتة زرقاء",
+                "apc_name_ascii": "Guelta Zerka"
+            },
+            {
+                "apc_name_ar": "بني فودة",
+                "apc_name_ascii": "Beni Fouda"
+            },
+            {
+                "apc_name_ar": "جميلة",
+                "apc_name_ascii": "Djemila"
+            },
+            {
+                "apc_name_ar": "عين لقراج",
+                "apc_name_ascii": "Ain-Legradj"
+            },
+            {
+                "apc_name_ar": "بني شبانة",
+                "apc_name_ascii": "Beni Chebana"
+            },
+            {
+                "apc_name_ar": "بني ورتيلان",
+                "apc_name_ascii": "Beni Ourtilane"
+            },
+            {
+                "apc_name_ar": "بني موحلي",
+                "apc_name_ascii": "Beni-Mouhli"
+            },
+            {
+                "apc_name_ar": "عين عباسة",
+                "apc_name_ascii": "Ain Abessa"
+            },
+            {
+                "apc_name_ar": "عين أرنات",
+                "apc_name_ascii": "Ain Arnat"
+            },
+            {
+                "apc_name_ar": "بابور",
+                "apc_name_ascii": "Babor"
+            },
+            {
+                "apc_name_ar": "ماوكلان",
+                "apc_name_ascii": "Maouaklane"
+            }
+        ]
+    },
+    "saïda": {
+        "wilaya_code": "20",
+        "wilaya_name_ar": "سعيدة",
+        "wilaya_name_ascii": "Saïda",
+        "apcs": [
+            {
+                "apc_name_ar": "سعيدة",
+                "apc_name_ascii": "Saida"
+            },
+            {
+                "apc_name_ar": "تيرسين",
+                "apc_name_ascii": "Tircine"
+            },
+            {
+                "apc_name_ar": "أولاد إبراهيم",
+                "apc_name_ascii": "Ouled Brahim"
+            },
+            {
+                "apc_name_ar": "عين السلطان",
+                "apc_name_ascii": "Ain Soltane"
+            },
+            {
+                "apc_name_ar": "المعمورة",
+                "apc_name_ascii": "Maamora"
+            },
+            {
+                "apc_name_ar": "الحساسنة",
+                "apc_name_ascii": "El Hassasna"
+            },
+            {
+                "apc_name_ar": "عين السخونة",
+                "apc_name_ascii": "Ain Sekhouna"
+            },
+            {
+                "apc_name_ar": "سيدي بوبكر",
+                "apc_name_ascii": "Sidi Boubekeur"
+            },
+            {
+                "apc_name_ar": "أولاد خالد",
+                "apc_name_ascii": "Ouled Khaled"
+            },
+            {
+                "apc_name_ar": "هونت",
+                "apc_name_ascii": "Hounet"
+            },
+            {
+                "apc_name_ar": "يوب",
+                "apc_name_ascii": "Youb"
+            },
+            {
+                "apc_name_ar": "دوي ثابت",
+                "apc_name_ascii": "Doui Thabet"
+            },
+            {
+                "apc_name_ar": "سيدي احمد",
+                "apc_name_ascii": "Sidi Ahmed"
+            },
+            {
+                "apc_name_ar": "مولاي العربي",
+                "apc_name_ascii": "Moulay Larbi"
+            },
+            {
+                "apc_name_ar": "عين الحجر",
+                "apc_name_ascii": "Ain El Hadjar"
+            },
+            {
+                "apc_name_ar": "سيدي عمر",
+                "apc_name_ascii": "Sidi Amar"
+            }
+        ]
+    },
+    "skikda": {
+        "wilaya_code": "21",
+        "wilaya_name_ar": "سكيكدة",
+        "wilaya_name_ascii": "Skikda",
+        "apcs": [
+            {
+                "apc_name_ar": "عين بوزيان",
+                "apc_name_ascii": "Ain Bouziane"
+            },
+            {
+                "apc_name_ar": "صالح بو الشعور",
+                "apc_name_ascii": "Salah Bouchaour"
+            },
+            {
+                "apc_name_ar": "الحدائق",
+                "apc_name_ascii": "El Hadaiek"
+            },
+            {
+                "apc_name_ar": "زردازة",
+                "apc_name_ascii": "Zerdezas"
+            },
+            {
+                "apc_name_ar": "أولاد حبابة",
+                "apc_name_ascii": "Ouled Habbaba"
+            },
+            {
+                "apc_name_ar": "بني ولبان",
+                "apc_name_ascii": "Beni Oulbane"
+            },
+            {
+                "apc_name_ar": "سيدي مزغيش",
+                "apc_name_ascii": "Sidi Mezghiche"
+            },
+            {
+                "apc_name_ar": "بني بشير",
+                "apc_name_ascii": "Beni Bechir"
+            },
+            {
+                "apc_name_ar": "رمضان جمال",
+                "apc_name_ascii": "Ramdane Djamel"
+            },
+            {
+                "apc_name_ar": "بين الويدان",
+                "apc_name_ascii": "Bin El Ouiden"
+            },
+            {
+                "apc_name_ar": "مجاز الدشيش",
+                "apc_name_ascii": "Emjez Edchich"
+            },
+            {
+                "apc_name_ar": "تمالوس",
+                "apc_name_ascii": "Tamalous"
+            },
+            {
+                "apc_name_ar": "عين قشرة",
+                "apc_name_ascii": "Ain Kechra"
+            },
+            {
+                "apc_name_ar": "الولجة بولبلوط",
+                "apc_name_ascii": "Ouldja Boulbalout"
+            },
+            {
+                "apc_name_ar": "أم الطوب",
+                "apc_name_ascii": "Oum Toub"
+            },
+            {
+                "apc_name_ar": "الغدير",
+                "apc_name_ascii": "El Ghedir"
+            },
+            {
+                "apc_name_ar": "الكركرة",
+                "apc_name_ascii": "Kerkara"
+            },
+            {
+                "apc_name_ar": "الحروش",
+                "apc_name_ascii": "El Arrouch"
+            },
+            {
+                "apc_name_ar": "الزيتونة",
+                "apc_name_ascii": "Zitouna"
+            },
+            {
+                "apc_name_ar": "أولاد عطية",
+                "apc_name_ascii": "Ouled Attia"
+            },
+            {
+                "apc_name_ar": "وادي الزهور",
+                "apc_name_ascii": "Oued Zhour"
+            },
+            {
+                "apc_name_ar": "القل",
+                "apc_name_ascii": "Collo"
+            },
+            {
+                "apc_name_ar": "الشرايع",
+                "apc_name_ascii": "Cheraia"
+            },
+            {
+                "apc_name_ar": "بني زيد",
+                "apc_name_ascii": "Beni Zid"
+            },
+            {
+                "apc_name_ar": "خناق مايو",
+                "apc_name_ascii": "Khenag Maoune"
+            },
+            {
+                "apc_name_ar": "المرسى",
+                "apc_name_ascii": "El Marsa"
+            },
+            {
+                "apc_name_ar": "بن عزوز",
+                "apc_name_ascii": "Ben Azzouz"
+            },
+            {
+                "apc_name_ar": "بكوش لخضر",
+                "apc_name_ascii": "Bekkouche Lakhdar"
+            },
+            {
+                "apc_name_ar": "السبت",
+                "apc_name_ascii": "Es Sebt"
+            },
+            {
+                "apc_name_ar": "عين شرشار",
+                "apc_name_ascii": "Ain Charchar"
+            },
+            {
+                "apc_name_ar": "عزابة",
+                "apc_name_ascii": "Azzaba"
+            },
+            {
+                "apc_name_ar": "بوشطاطة",
+                "apc_name_ascii": "Bouchetata"
+            },
+            {
+                "apc_name_ar": "فلفلة",
+                "apc_name_ascii": "Filfila"
+            },
+            {
+                "apc_name_ar": "حمادي كرومة",
+                "apc_name_ascii": "Hammadi Krouma"
+            },
+            {
+                "apc_name_ar": "سكيكدة",
+                "apc_name_ascii": "Skikda"
+            },
+            {
+                "apc_name_ar": "عين زويت",
+                "apc_name_ascii": "Ain Zouit"
+            },
+            {
+                "apc_name_ar": "جندل سعدي محمد",
+                "apc_name_ascii": "Djendel Saadi Mohamed"
+            },
+            {
+                "apc_name_ar": "قنواع",
+                "apc_name_ascii": "Kanoua"
+            }
+        ]
+    },
+    "sidi_bel_abbès": {
+        "wilaya_code": "22",
+        "wilaya_name_ar": "سيدي بلعباس",
+        "wilaya_name_ascii": "Sidi Bel Abbès",
+        "apcs": [
+            {
+                "apc_name_ar": "سيدي علي بن يوب",
+                "apc_name_ascii": "Sidi Ali Benyoub"
+            },
+            {
+                "apc_name_ar": "مولاي سليسن",
+                "apc_name_ascii": "Moulay Slissen"
+            },
+            {
+                "apc_name_ar": "الحصيبة",
+                "apc_name_ascii": "El Hacaiba"
+            },
+            {
+                "apc_name_ar": "عين تندمين",
+                "apc_name_ascii": "Ain Tindamine"
+            },
+            {
+                "apc_name_ar": "تنيرة",
+                "apc_name_ascii": "Tenira"
+            },
+            {
+                "apc_name_ar": "وادي سفيون",
+                "apc_name_ascii": "Oued Sefioun"
+            },
+            {
+                "apc_name_ar": "حاسي دحو",
+                "apc_name_ascii": "Hassi Dahou"
+            },
+            {
+                "apc_name_ar": "وادي تاوريرة",
+                "apc_name_ascii": "Oued Taourira"
+            },
+            {
+                "apc_name_ar": "بن عشيبة شلية",
+                "apc_name_ascii": "Benachiba Chelia"
+            },
+            {
+                "apc_name_ar": "سيدي يعقوب",
+                "apc_name_ascii": "Sidi Yacoub"
+            },
+            {
+                "apc_name_ar": "سيدي لحسن",
+                "apc_name_ascii": "Sidi Lahcene"
+            },
+            {
+                "apc_name_ar": "سيدي خالد",
+                "apc_name_ascii": "Sidi Khaled"
+            },
+            {
+                "apc_name_ar": "طابية",
+                "apc_name_ascii": "Tabia"
+            },
+            {
+                "apc_name_ar": "سيدي ابراهيم",
+                "apc_name_ascii": "Sidi Brahim"
+            },
+            {
+                "apc_name_ar": "العمارنة",
+                "apc_name_ascii": "Amarnas"
+            },
+            {
+                "apc_name_ar": "بوخنفيس",
+                "apc_name_ascii": "Boukhanefis"
+            },
+            {
+                "apc_name_ar": "حاسي زهانة",
+                "apc_name_ascii": "Hassi Zahana"
+            },
+            {
+                "apc_name_ar": "شيطوان البلايلة",
+                "apc_name_ascii": "Chetouane Belaila"
+            },
+            {
+                "apc_name_ar": "بن باديس",
+                "apc_name_ascii": "Ben Badis"
+            },
+            {
+                "apc_name_ar": "بضرابين المقراني",
+                "apc_name_ascii": "Bedrabine El Mokrani"
+            },
+            {
+                "apc_name_ar": "سفيزف",
+                "apc_name_ascii": "Sfisef"
+            },
+            {
+                "apc_name_ar": "مسيد",
+                "apc_name_ascii": "M'cid"
+            },
+            {
+                "apc_name_ar": "بوجبهة البرج",
+                "apc_name_ascii": "Boudjebaa El Bordj"
+            },
+            {
+                "apc_name_ar": "عين أدن",
+                "apc_name_ascii": "Ain- Adden"
+            },
+            {
+                "apc_name_ar": "سيدي حمادوش",
+                "apc_name_ascii": "Sidi Hamadouche"
+            },
+            {
+                "apc_name_ar": "سيدي شعيب",
+                "apc_name_ascii": "Sidi Chaib"
+            },
+            {
+                "apc_name_ar": "مكدرة",
+                "apc_name_ascii": "Makedra"
+            },
+            {
+                "apc_name_ar": "عين البرد",
+                "apc_name_ascii": "Ain El Berd"
+            },
+            {
+                "apc_name_ar": "رجم دموش",
+                "apc_name_ascii": "Redjem Demouche"
+            },
+            {
+                "apc_name_ar": "راس الماء",
+                "apc_name_ascii": "Ras El Ma"
+            },
+            {
+                "apc_name_ar": "وادي السبع",
+                "apc_name_ascii": "Oued Sebaa"
+            },
+            {
+                "apc_name_ar": "مرحوم",
+                "apc_name_ascii": "Marhoum"
+            },
+            {
+                "apc_name_ar": "سيدي بلعباس",
+                "apc_name_ascii": "Sidi Bel-Abbes"
+            },
+            {
+                "apc_name_ar": "عين الثريد",
+                "apc_name_ascii": "Ain Thrid"
+            },
+            {
+                "apc_name_ar": "السهالة الثورة",
+                "apc_name_ascii": "Sehala Thaoura"
+            },
+            {
+                "apc_name_ar": "تسالة",
+                "apc_name_ascii": "Tessala"
+            },
+            {
+                "apc_name_ar": "بلعربي",
+                "apc_name_ascii": "Belarbi"
+            },
+            {
+                "apc_name_ar": "مصطفى بن ابراهيم",
+                "apc_name_ascii": "Mostefa  Ben Brahim"
+            },
+            {
+                "apc_name_ar": "تلموني",
+                "apc_name_ascii": "Tilmouni"
+            },
+            {
+                "apc_name_ar": "زروالة",
+                "apc_name_ascii": "Zerouala"
+            },
+            {
+                "apc_name_ar": "الضاية",
+                "apc_name_ascii": "Dhaya"
+            },
+            {
+                "apc_name_ar": "مزاورو",
+                "apc_name_ascii": "Mezaourou"
+            },
+            {
+                "apc_name_ar": "تغاليمت",
+                "apc_name_ascii": "Teghalimet"
+            },
+            {
+                "apc_name_ar": "تلاغ",
+                "apc_name_ascii": "Telagh"
+            },
+            {
+                "apc_name_ar": "عين قادة",
+                "apc_name_ascii": "Ain Kada"
+            },
+            {
+                "apc_name_ar": "لمطار",
+                "apc_name_ascii": "Lamtar"
+            },
+            {
+                "apc_name_ar": "سيدي علي بوسيدي",
+                "apc_name_ascii": "Sidi Ali Boussidi"
+            },
+            {
+                "apc_name_ar": "سيدي دحو الزاير",
+                "apc_name_ascii": "Sidi Dahou Zairs"
+            },
+            {
+                "apc_name_ar": "بئر الحمام",
+                "apc_name_ascii": "Bir El Hammam"
+            },
+            {
+                "apc_name_ar": "مرين",
+                "apc_name_ascii": "Merine"
+            },
+            {
+                "apc_name_ar": "تفسور",
+                "apc_name_ascii": "Tefessour"
+            },
+            {
+                "apc_name_ar": "تاودموت",
+                "apc_name_ascii": "Taoudmout"
+            }
+        ]
+    },
+    "annaba": {
+        "wilaya_code": "23",
+        "wilaya_name_ar": "عنابة",
+        "wilaya_name_ascii": "Annaba",
+        "apcs": [
+            {
+                "apc_name_ar": "عنابة",
+                "apc_name_ascii": "Annaba"
+            },
+            {
+                "apc_name_ar": "سرايدي",
+                "apc_name_ascii": "Seraidi"
+            },
+            {
+                "apc_name_ar": "برحال",
+                "apc_name_ascii": "Berrahal"
+            },
+            {
+                "apc_name_ar": "واد العنب",
+                "apc_name_ascii": "Oued El Aneb"
+            },
+            {
+                "apc_name_ar": "الحجار",
+                "apc_name_ascii": "El Hadjar"
+            },
+            {
+                "apc_name_ar": "سيدي عمار",
+                "apc_name_ascii": "Sidi Amar"
+            },
+            {
+                "apc_name_ar": "البوني",
+                "apc_name_ascii": "El Bouni"
+            },
+            {
+                "apc_name_ar": "عين الباردة",
+                "apc_name_ascii": "Ain El Berda"
+            },
+            {
+                "apc_name_ar": "الشرفة",
+                "apc_name_ascii": "Cheurfa"
+            },
+            {
+                "apc_name_ar": "العلمة",
+                "apc_name_ascii": "El Eulma"
+            },
+            {
+                "apc_name_ar": "التريعات",
+                "apc_name_ascii": "Treat"
+            },
+            {
+                "apc_name_ar": "شطايبي",
+                "apc_name_ascii": "Chetaibi"
+            }
+        ]
+    },
+    "guelma": {
+        "wilaya_code": "24",
+        "wilaya_name_ar": "قالمة",
+        "wilaya_name_ascii": "Guelma",
+        "apcs": [
+            {
+                "apc_name_ar": "نشماية",
+                "apc_name_ascii": "Nechmaya"
+            },
+            {
+                "apc_name_ar": "بوحمدان",
+                "apc_name_ascii": "Bou Hamdane"
+            },
+            {
+                "apc_name_ar": "حمام دباغ",
+                "apc_name_ascii": "Hammam Debagh"
+            },
+            {
+                "apc_name_ar": "الركنية",
+                "apc_name_ascii": "Roknia"
+            },
+            {
+                "apc_name_ar": "الدهوارة",
+                "apc_name_ascii": "Dahouara"
+            },
+            {
+                "apc_name_ar": "حمام النبايل",
+                "apc_name_ascii": "Hammam N'bail"
+            },
+            {
+                "apc_name_ar": "قالمة",
+                "apc_name_ascii": "Guelma"
+            },
+            {
+                "apc_name_ar": "بومهرة أحمد",
+                "apc_name_ascii": "Boumahra Ahmed"
+            },
+            {
+                "apc_name_ar": "عين بن بيضاء",
+                "apc_name_ascii": "Ain Ben Beida"
+            },
+            {
+                "apc_name_ar": "بوشقوف",
+                "apc_name_ascii": "Bouchegouf"
+            },
+            {
+                "apc_name_ar": "مجاز الصفاء",
+                "apc_name_ascii": "Medjez Sfa"
+            },
+            {
+                "apc_name_ar": "وادي فراغة",
+                "apc_name_ascii": "Oued Ferragha"
+            },
+            {
+                "apc_name_ar": "بوعاتي محمود",
+                "apc_name_ascii": "Bouati Mahmoud"
+            },
+            {
+                "apc_name_ar": "الفجوج",
+                "apc_name_ascii": "El Fedjoudj"
+            },
+            {
+                "apc_name_ar": "هيليوبوليس",
+                "apc_name_ascii": "Heliopolis"
+            },
+            {
+                "apc_name_ar": "مجاز عمار",
+                "apc_name_ascii": "Medjez Amar"
+            },
+            {
+                "apc_name_ar": "هواري بومدين",
+                "apc_name_ascii": "Houari Boumedienne"
+            },
+            {
+                "apc_name_ar": "رأس العقبة",
+                "apc_name_ascii": "Ras El Agba"
+            },
+            {
+                "apc_name_ar": "سلاوة عنونة",
+                "apc_name_ascii": "Sellaoua Announa"
+            },
+            {
+                "apc_name_ar": "جبالة الخميسي",
+                "apc_name_ascii": "Djeballah Khemissi"
+            },
+            {
+                "apc_name_ar": "برج صباط",
+                "apc_name_ascii": "Bordj Sabath"
+            },
+            {
+                "apc_name_ar": "وادي الزناتي",
+                "apc_name_ascii": "Oued Zenati"
+            },
+            {
+                "apc_name_ar": "عين رقادة",
+                "apc_name_ascii": "Ain Regada"
+            },
+            {
+                "apc_name_ar": "عين العربي",
+                "apc_name_ascii": "Ain Larbi"
+            },
+            {
+                "apc_name_ar": "عين مخلوف",
+                "apc_name_ascii": "Ain Makhlouf"
+            },
+            {
+                "apc_name_ar": "تاملوكة",
+                "apc_name_ascii": "Tamlouka"
+            },
+            {
+                "apc_name_ar": "عين صندل",
+                "apc_name_ascii": "Ain Sandel"
+            },
+            {
+                "apc_name_ar": "بوحشانة",
+                "apc_name_ascii": "Bou Hachana"
+            },
+            {
+                "apc_name_ar": "لخزارة",
+                "apc_name_ascii": "Khezaras"
+            },
+            {
+                "apc_name_ar": "بلخير",
+                "apc_name_ascii": "Belkheir"
+            },
+            {
+                "apc_name_ar": "بني مزلين",
+                "apc_name_ascii": "Beni Mezline"
+            },
+            {
+                "apc_name_ar": "قلعة بوصبع",
+                "apc_name_ascii": "Guelaat Bou Sbaa"
+            },
+            {
+                "apc_name_ar": "وادي الشحم",
+                "apc_name_ascii": "Oued Cheham"
+            },
+            {
+                "apc_name_ar": "بن جراح",
+                "apc_name_ascii": "Bendjarah"
+            }
+        ]
+    },
+    "constantine": {
+        "wilaya_code": "25",
+        "wilaya_name_ar": "قسنطينة",
+        "wilaya_name_ascii": "Constantine",
+        "apcs": [
+            {
+                "apc_name_ar": "ديدوش مراد",
+                "apc_name_ascii": "Didouche Mourad"
+            },
+            {
+                "apc_name_ar": "حامة بوزيان",
+                "apc_name_ascii": "Hamma Bouziane"
+            },
+            {
+                "apc_name_ar": "بني حميدان",
+                "apc_name_ascii": "Beni Hamidane"
+            },
+            {
+                "apc_name_ar": "زيغود يوسف",
+                "apc_name_ascii": "Zighoud Youcef"
+            },
+            {
+                "apc_name_ar": "عين السمارة",
+                "apc_name_ascii": "Ain Smara"
+            },
+            {
+                "apc_name_ar": "الخروب",
+                "apc_name_ascii": "El Khroub"
+            },
+            {
+                "apc_name_ar": "أولاد رحمون",
+                "apc_name_ascii": "Ouled Rahmoun"
+            },
+            {
+                "apc_name_ar": "عين عبيد",
+                "apc_name_ascii": "Ain Abid"
+            },
+            {
+                "apc_name_ar": "أبن باديس الهرية",
+                "apc_name_ascii": "Ben Badis"
+            },
+            {
+                "apc_name_ar": "ابن زياد",
+                "apc_name_ascii": "Ibn Ziad"
+            },
+            {
+                "apc_name_ar": "بوجريو مسعود",
+                "apc_name_ascii": "Messaoud Boudjeriou"
+            },
+            {
+                "apc_name_ar": "قسنطينة",
+                "apc_name_ascii": "Constantine"
+            }
+        ]
+    },
+    "médéa": {
+        "wilaya_code": "26",
+        "wilaya_name_ar": "المدية",
+        "wilaya_name_ascii": "Médéa",
+        "apcs": [
+            {
+                "apc_name_ar": "أولاد هلال",
+                "apc_name_ascii": "Ouled Hellal"
+            },
+            {
+                "apc_name_ar": "السواقي",
+                "apc_name_ascii": "Souagui"
+            },
+            {
+                "apc_name_ar": "قصر البخاري",
+                "apc_name_ascii": "Ksar El Boukhari"
+            },
+            {
+                "apc_name_ar": "مفاتحة",
+                "apc_name_ascii": "M'fatha"
+            },
+            {
+                "apc_name_ar": "السانق",
+                "apc_name_ascii": "Saneg"
+            },
+            {
+                "apc_name_ar": "العزيزية",
+                "apc_name_ascii": "El Azizia"
+            },
+            {
+                "apc_name_ar": "مغراوة",
+                "apc_name_ascii": "Maghraoua"
+            },
+            {
+                "apc_name_ar": "ميهوب",
+                "apc_name_ascii": "Mihoub"
+            },
+            {
+                "apc_name_ar": "بوعيش",
+                "apc_name_ascii": "Bouaiche"
+            },
+            {
+                "apc_name_ar": "بوغزول",
+                "apc_name_ascii": "Boughzoul"
+            },
+            {
+                "apc_name_ar": "الشهبونية",
+                "apc_name_ascii": "Chabounia"
+            },
+            {
+                "apc_name_ar": "حناشة",
+                "apc_name_ascii": "Hannacha"
+            },
+            {
+                "apc_name_ar": "عوامري",
+                "apc_name_ascii": "Ouamri"
+            },
+            {
+                "apc_name_ar": "وادي حربيل",
+                "apc_name_ascii": "Oued Harbil"
+            },
+            {
+                "apc_name_ar": "بني سليمان",
+                "apc_name_ascii": "Beni Slimane"
+            },
+            {
+                "apc_name_ar": "بوعيشون",
+                "apc_name_ascii": "Bouaichoune"
+            },
+            {
+                "apc_name_ar": "أولاد بوعشرة",
+                "apc_name_ascii": "Ouled Bouachra"
+            },
+            {
+                "apc_name_ar": "سي المحجوب",
+                "apc_name_ascii": "Si Mahdjoub"
+            },
+            {
+                "apc_name_ar": "بوسكن",
+                "apc_name_ascii": "Bouskene"
+            },
+            {
+                "apc_name_ar": "سيدي الربيع",
+                "apc_name_ascii": "Sidi Rabie"
+            },
+            {
+                "apc_name_ar": "البرواقية",
+                "apc_name_ascii": "Berrouaghia"
+            },
+            {
+                "apc_name_ar": "أولاد دايد",
+                "apc_name_ascii": "Ouled Deid"
+            },
+            {
+                "apc_name_ar": "الربعية",
+                "apc_name_ascii": "Rebaia"
+            },
+            {
+                "apc_name_ar": "مجبر",
+                "apc_name_ascii": "Medjebar"
+            },
+            {
+                "apc_name_ar": "ثلاث دوائر",
+                "apc_name_ascii": "Tletat Ed Douair"
+            },
+            {
+                "apc_name_ar": "الزبيرية",
+                "apc_name_ascii": "Zoubiria"
+            },
+            {
+                "apc_name_ar": "العيساوية",
+                "apc_name_ascii": "Aissaouia"
+            },
+            {
+                "apc_name_ar": "الحوضان",
+                "apc_name_ascii": "El Haoudane"
+            },
+            {
+                "apc_name_ar": "مزغنة",
+                "apc_name_ascii": "Mezerana"
+            },
+            {
+                "apc_name_ar": "تابلاط",
+                "apc_name_ascii": "Tablat"
+            },
+            {
+                "apc_name_ar": "بوغار",
+                "apc_name_ascii": "Boghar"
+            },
+            {
+                "apc_name_ar": "سغوان",
+                "apc_name_ascii": "Seghouane"
+            },
+            {
+                "apc_name_ar": "ذراع السمار",
+                "apc_name_ascii": "Draa Esmar"
+            },
+            {
+                "apc_name_ar": "المدية",
+                "apc_name_ascii": "Medea"
+            },
+            {
+                "apc_name_ar": "تمسقيدة",
+                "apc_name_ascii": "Tamesguida"
+            },
+            {
+                "apc_name_ar": "بن شكاو",
+                "apc_name_ascii": "Ben Chicao"
+            },
+            {
+                "apc_name_ar": "الحمدانية",
+                "apc_name_ascii": "El Hamdania"
+            },
+            {
+                "apc_name_ar": "وزرة",
+                "apc_name_ascii": "Ouzera"
+            },
+            {
+                "apc_name_ar": "تيزي مهدي",
+                "apc_name_ascii": "Tizi Mahdi"
+            },
+            {
+                "apc_name_ar": "عين بوسيف",
+                "apc_name_ascii": "Ain Boucif"
+            },
+            {
+                "apc_name_ar": "العوينات",
+                "apc_name_ascii": "El Ouinet"
+            },
+            {
+                "apc_name_ar": "الكاف الاخضر",
+                "apc_name_ascii": "Kef Lakhdar"
+            },
+            {
+                "apc_name_ar": "أولاد امعرف",
+                "apc_name_ascii": "Ouled Emaaraf"
+            },
+            {
+                "apc_name_ar": "سيدي دامد",
+                "apc_name_ascii": "Sidi Demed"
+            },
+            {
+                "apc_name_ar": "بعطة",
+                "apc_name_ascii": "Baata"
+            },
+            {
+                "apc_name_ar": "العمارية",
+                "apc_name_ascii": "El Omaria"
+            },
+            {
+                "apc_name_ar": "أولاد إبراهيم",
+                "apc_name_ascii": "Ouled Brahim"
+            },
+            {
+                "apc_name_ar": "بئر بن عابد",
+                "apc_name_ascii": "Bir Ben Laabed"
+            },
+            {
+                "apc_name_ar": "القلب الكبير",
+                "apc_name_ascii": "El Guelbelkebir"
+            },
+            {
+                "apc_name_ar": "سدراية",
+                "apc_name_ascii": "Sedraya"
+            },
+            {
+                "apc_name_ar": "عين اقصير",
+                "apc_name_ascii": "Ain Ouksir"
+            },
+            {
+                "apc_name_ar": "شلالة العذاورة",
+                "apc_name_ascii": "Chelalet El Adhaoura"
+            },
+            {
+                "apc_name_ar": "شنيقل",
+                "apc_name_ascii": "Cheniguel"
+            },
+            {
+                "apc_name_ar": "تفراوت",
+                "apc_name_ascii": "Tafraout"
+            },
+            {
+                "apc_name_ar": "بوشراحيل",
+                "apc_name_ascii": "Bouchrahil"
+            },
+            {
+                "apc_name_ar": "خمس جوامع",
+                "apc_name_ascii": "Khams Djouamaa"
+            },
+            {
+                "apc_name_ar": "سيدي نعمان",
+                "apc_name_ascii": "Sidi Naamane"
+            },
+            {
+                "apc_name_ar": "عزيز",
+                "apc_name_ascii": "Aziz"
+            },
+            {
+                "apc_name_ar": "دراق",
+                "apc_name_ascii": "Derrag"
+            },
+            {
+                "apc_name_ar": "أم الجليل",
+                "apc_name_ascii": "Oum El Djellil"
+            },
+            {
+                "apc_name_ar": "جواب",
+                "apc_name_ascii": "Djouab"
+            },
+            {
+                "apc_name_ar": "سيدي زهار",
+                "apc_name_ascii": "Sidi Zahar"
+            },
+            {
+                "apc_name_ar": "سيدي زيان",
+                "apc_name_ascii": "Sidi Ziane"
+            },
+            {
+                "apc_name_ar": "أولاد عنتر",
+                "apc_name_ascii": "Ouled Antar"
+            }
+        ]
+    },
+    "mostaganem": {
+        "wilaya_code": "27",
+        "wilaya_name_ar": "مستغانم",
+        "wilaya_name_ascii": "Mostaganem",
+        "apcs": [
+            {
+                "apc_name_ar": "فرناقة",
+                "apc_name_ascii": "Fornaka"
+            },
+            {
+                "apc_name_ar": "وادي الخير",
+                "apc_name_ascii": "Oued El Kheir"
+            },
+            {
+                "apc_name_ar": "الحسيان (بني ياحي",
+                "apc_name_ascii": "Hassiane"
+            },
+            {
+                "apc_name_ar": "حاسي ماماش",
+                "apc_name_ascii": "Hassi Mameche"
+            },
+            {
+                "apc_name_ar": "مزغران",
+                "apc_name_ascii": "Mazagran"
+            },
+            {
+                "apc_name_ar": "ستيدية",
+                "apc_name_ascii": "Stidia"
+            },
+            {
+                "apc_name_ar": "عين تادلس",
+                "apc_name_ascii": "Ain-Tedles"
+            },
+            {
+                "apc_name_ar": "سيدي بلعطار",
+                "apc_name_ascii": "Sidi Belaattar"
+            },
+            {
+                "apc_name_ar": "سور",
+                "apc_name_ascii": "Sour"
+            },
+            {
+                "apc_name_ar": "عين بودينار",
+                "apc_name_ascii": "Ain-Boudinar"
+            },
+            {
+                "apc_name_ar": "خير الدين",
+                "apc_name_ascii": "Kheir-Eddine"
+            },
+            {
+                "apc_name_ar": "صيادة",
+                "apc_name_ascii": "Sayada"
+            },
+            {
+                "apc_name_ar": "سيدي علي",
+                "apc_name_ascii": "Sidi Ali"
+            },
+            {
+                "apc_name_ar": "تزقايت",
+                "apc_name_ascii": "Tazgait"
+            },
+            {
+                "apc_name_ar": "بن عبد المالك رمضان",
+                "apc_name_ascii": "Benabdelmalek Ramdane"
+            },
+            {
+                "apc_name_ar": "مستغانم",
+                "apc_name_ascii": "Mostaganem"
+            },
+            {
+                "apc_name_ar": "حجاج",
+                "apc_name_ascii": "Hadjadj"
+            },
+            {
+                "apc_name_ar": "سيدي لخضر",
+                "apc_name_ascii": "Sidi-Lakhdar"
+            },
+            {
+                "apc_name_ar": "عشعاشة",
+                "apc_name_ascii": "Achaacha"
+            },
+            {
+                "apc_name_ar": "خضرة",
+                "apc_name_ascii": "Khadra"
+            },
+            {
+                "apc_name_ar": "نكمارية",
+                "apc_name_ascii": "Nekmaria"
+            },
+            {
+                "apc_name_ar": "أولاد بوغالم",
+                "apc_name_ascii": "Ouled Boughalem"
+            },
+            {
+                "apc_name_ar": "بوقيراط",
+                "apc_name_ascii": "Bouguirat"
+            },
+            {
+                "apc_name_ar": "صفصاف",
+                "apc_name_ascii": "Safsaf"
+            },
+            {
+                "apc_name_ar": "سيرات",
+                "apc_name_ascii": "Sirat"
+            },
+            {
+                "apc_name_ar": "السوافلية",
+                "apc_name_ascii": "Souaflia"
+            },
+            {
+                "apc_name_ar": "عين سيدي الشريف",
+                "apc_name_ascii": "Ain-Sidi Cherif"
+            },
+            {
+                "apc_name_ar": "منصورة",
+                "apc_name_ascii": "Mansourah"
+            },
+            {
+                "apc_name_ar": "ماسرة",
+                "apc_name_ascii": "Mesra"
+            },
+            {
+                "apc_name_ar": "الطواهرية",
+                "apc_name_ascii": "Touahria"
+            },
+            {
+                "apc_name_ar": "عين نويسي",
+                "apc_name_ascii": "Ain-Nouissy"
+            },
+            {
+                "apc_name_ar": "أولاد مع الله",
+                "apc_name_ascii": "Ouled-Maalah"
+            }
+        ]
+    },
+    "m'sila": {
+        "wilaya_code": "28",
+        "wilaya_name_ar": "المسيلة",
+        "wilaya_name_ascii": "M'Sila",
+        "apcs": [
+            {
+                "apc_name_ar": "شلال",
+                "apc_name_ascii": "Chellal"
+            },
+            {
+                "apc_name_ar": "أولاد ماضي",
+                "apc_name_ascii": "Ouled Madhi"
+            },
+            {
+                "apc_name_ar": "خطوطي سد الجير",
+                "apc_name_ascii": "Khettouti Sed-El-Jir"
+            },
+            {
+                "apc_name_ar": "بلعايبة",
+                "apc_name_ascii": "Belaiba"
+            },
+            {
+                "apc_name_ar": "برهوم",
+                "apc_name_ascii": "Berhoum"
+            },
+            {
+                "apc_name_ar": "دهاهنة",
+                "apc_name_ascii": "Dehahna"
+            },
+            {
+                "apc_name_ar": "مقرة",
+                "apc_name_ascii": "Magra"
+            },
+            {
+                "apc_name_ar": "بني يلمان",
+                "apc_name_ascii": "Beni Ilmane"
+            },
+            {
+                "apc_name_ar": "بوطي السايح",
+                "apc_name_ascii": "Bouti Sayeh"
+            },
+            {
+                "apc_name_ar": "سيدي عيسى",
+                "apc_name_ascii": "Sidi Aissa"
+            },
+            {
+                "apc_name_ar": "عين الحجل",
+                "apc_name_ascii": "Ain El Hadjel"
+            },
+            {
+                "apc_name_ar": "سيدي هجرس",
+                "apc_name_ascii": "Sidi Hadjeres"
+            },
+            {
+                "apc_name_ar": "بوسعادة",
+                "apc_name_ascii": "Bou Saada"
+            },
+            {
+                "apc_name_ar": "الهامل",
+                "apc_name_ascii": "El Hamel"
+            },
+            {
+                "apc_name_ar": "ولتام",
+                "apc_name_ascii": "Oulteme"
+            },
+            {
+                "apc_name_ar": "بن زوه",
+                "apc_name_ascii": "Benzouh"
+            },
+            {
+                "apc_name_ar": "أولاد سيدي ابراهيم",
+                "apc_name_ascii": "Ouled Sidi Brahim"
+            },
+            {
+                "apc_name_ar": "سيدي عامر",
+                "apc_name_ascii": "Sidi Ameur"
+            },
+            {
+                "apc_name_ar": "تامسة",
+                "apc_name_ascii": "Tamsa"
+            },
+            {
+                "apc_name_ar": "بن سرور",
+                "apc_name_ascii": "Ben Srour"
+            },
+            {
+                "apc_name_ar": "محمد بوضياف",
+                "apc_name_ascii": "Mohamed Boudiaf"
+            },
+            {
+                "apc_name_ar": "أولاد سليمان",
+                "apc_name_ascii": "Ouled Slimane"
+            },
+            {
+                "apc_name_ar": "زرزور",
+                "apc_name_ascii": "Zarzour"
+            },
+            {
+                "apc_name_ar": "عين الملح",
+                "apc_name_ascii": "Ain El Melh"
+            },
+            {
+                "apc_name_ar": "عين فارس",
+                "apc_name_ascii": "Ain Fares"
+            },
+            {
+                "apc_name_ar": "عين الريش",
+                "apc_name_ascii": "Ain Rich"
+            },
+            {
+                "apc_name_ar": "بئر فضة",
+                "apc_name_ascii": "Bir Foda"
+            },
+            {
+                "apc_name_ar": "سيدي امحمد",
+                "apc_name_ascii": "Sidi M'hamed"
+            },
+            {
+                "apc_name_ar": "امجدل",
+                "apc_name_ascii": "Medjedel"
+            },
+            {
+                "apc_name_ar": "مناعة",
+                "apc_name_ascii": "Menaa"
+            },
+            {
+                "apc_name_ar": "جبل مساعد",
+                "apc_name_ascii": "Djebel Messaad"
+            },
+            {
+                "apc_name_ar": "سليم",
+                "apc_name_ascii": "Slim"
+            },
+            {
+                "apc_name_ar": "المسيلة",
+                "apc_name_ascii": "M'sila"
+            },
+            {
+                "apc_name_ar": "حمام الضلعة",
+                "apc_name_ascii": "Hammam Dalaa"
+            },
+            {
+                "apc_name_ar": "ونوغة",
+                "apc_name_ascii": "Ouanougha"
+            },
+            {
+                "apc_name_ar": "أولاد منصور",
+                "apc_name_ascii": "Ouled Mansour"
+            },
+            {
+                "apc_name_ar": "تارمونت",
+                "apc_name_ascii": "Tarmount"
+            },
+            {
+                "apc_name_ar": "المعاضيد",
+                "apc_name_ascii": "Maadid"
+            },
+            {
+                "apc_name_ar": "المطارفة",
+                "apc_name_ascii": "M'tarfa"
+            },
+            {
+                "apc_name_ar": "معاريف",
+                "apc_name_ascii": "Maarif"
+            },
+            {
+                "apc_name_ar": "أولاد دراج",
+                "apc_name_ascii": "Ouled Derradj"
+            },
+            {
+                "apc_name_ar": "السوامع",
+                "apc_name_ascii": "Souamaa"
+            },
+            {
+                "apc_name_ar": "الحوامد",
+                "apc_name_ascii": "El Houamed"
+            },
+            {
+                "apc_name_ar": "خبانة",
+                "apc_name_ascii": "Khoubana"
+            },
+            {
+                "apc_name_ar": "مسيف",
+                "apc_name_ascii": "M'cif"
+            },
+            {
+                "apc_name_ar": "عين الخضراء",
+                "apc_name_ascii": "Ain Khadra"
+            },
+            {
+                "apc_name_ar": "أولاد عدي لقبالة",
+                "apc_name_ascii": "Ouled Addi Guebala"
+            }
+        ]
+    },
+    "mascara": {
+        "wilaya_code": "29",
+        "wilaya_name_ar": "معسكر",
+        "wilaya_name_ascii": "Mascara",
+        "apcs": [
+            {
+                "apc_name_ar": "وادي الأبطال",
+                "apc_name_ascii": "Oued El Abtal"
+            },
+            {
+                "apc_name_ar": "سيدي عبد المومن",
+                "apc_name_ascii": "Sidi Abdelmoumene"
+            },
+            {
+                "apc_name_ar": "سجرارة",
+                "apc_name_ascii": "Sedjerara"
+            },
+            {
+                "apc_name_ar": "المحمدية",
+                "apc_name_ascii": "Mohammadia"
+            },
+            {
+                "apc_name_ar": "تيغنيف",
+                "apc_name_ascii": "Tighennif"
+            },
+            {
+                "apc_name_ar": "مقطع الدوز",
+                "apc_name_ascii": "Mocta-Douz"
+            },
+            {
+                "apc_name_ar": "فراقيق",
+                "apc_name_ascii": "Ferraguig"
+            },
+            {
+                "apc_name_ar": "الغمري",
+                "apc_name_ascii": "El Ghomri"
+            },
+            {
+                "apc_name_ar": "زهانة",
+                "apc_name_ascii": "Zahana"
+            },
+            {
+                "apc_name_ar": "القعدة",
+                "apc_name_ascii": "El Gaada"
+            },
+            {
+                "apc_name_ar": "رأس عين عميروش",
+                "apc_name_ascii": "Ras El Ain Amirouche"
+            },
+            {
+                "apc_name_ar": "عقاز",
+                "apc_name_ascii": "Oggaz"
+            },
+            {
+                "apc_name_ar": "العلايمية",
+                "apc_name_ascii": "Alaimia"
+            },
+            {
+                "apc_name_ar": "سيق",
+                "apc_name_ascii": "Sig"
+            },
+            {
+                "apc_name_ar": "الشرفاء",
+                "apc_name_ascii": "Chorfa"
+            },
+            {
+                "apc_name_ar": "بوهني",
+                "apc_name_ascii": "Bou Henni"
+            },
+            {
+                "apc_name_ar": "المأمونية",
+                "apc_name_ascii": "El Mamounia"
+            },
+            {
+                "apc_name_ar": "القطنة",
+                "apc_name_ascii": "El Gueitena"
+            },
+            {
+                "apc_name_ar": "عين فارس",
+                "apc_name_ascii": "Ain Fares"
+            },
+            {
+                "apc_name_ar": "غروس",
+                "apc_name_ascii": "Gharrous"
+            },
+            {
+                "apc_name_ar": "بنيان",
+                "apc_name_ascii": "Benian"
+            },
+            {
+                "apc_name_ar": "عوف",
+                "apc_name_ascii": "Aouf"
+            },
+            {
+                "apc_name_ar": "قرجوم",
+                "apc_name_ascii": "Guerdjoum"
+            },
+            {
+                "apc_name_ar": "عين أفرص",
+                "apc_name_ascii": "Ain Frass"
+            },
+            {
+                "apc_name_ar": "عين فكان",
+                "apc_name_ascii": "Ain Fekan"
+            },
+            {
+                "apc_name_ar": "خلوية",
+                "apc_name_ascii": "Khalouia"
+            },
+            {
+                "apc_name_ar": "المنور",
+                "apc_name_ascii": "El Menaouer"
+            },
+            {
+                "apc_name_ar": "البرج",
+                "apc_name_ascii": "El Bordj"
+            },
+            {
+                "apc_name_ar": "سيدي بوسعيد",
+                "apc_name_ascii": "Sidi Boussaid"
+            },
+            {
+                "apc_name_ar": "المطمور",
+                "apc_name_ascii": "Matemore"
+            },
+            {
+                "apc_name_ar": "سيدي قادة",
+                "apc_name_ascii": "Sidi Kada"
+            },
+            {
+                "apc_name_ar": "ماقضة",
+                "apc_name_ascii": "Makhda"
+            },
+            {
+                "apc_name_ar": "معسكر",
+                "apc_name_ascii": "Mascara"
+            },
+            {
+                "apc_name_ar": "بوحنيفية",
+                "apc_name_ascii": "Bouhanifia"
+            },
+            {
+                "apc_name_ar": "غريس",
+                "apc_name_ascii": "Ghriss"
+            },
+            {
+                "apc_name_ar": "حسين",
+                "apc_name_ascii": "Hacine"
+            },
+            {
+                "apc_name_ar": "القرط",
+                "apc_name_ascii": "El Keurt"
+            },
+            {
+                "apc_name_ar": "فروحة",
+                "apc_name_ascii": "Froha"
+            },
+            {
+                "apc_name_ar": "تيزي",
+                "apc_name_ascii": "Tizi"
+            },
+            {
+                "apc_name_ar": "السهايلية",
+                "apc_name_ascii": "Sehailia"
+            },
+            {
+                "apc_name_ar": "ماوسة",
+                "apc_name_ascii": "Maoussa"
+            },
+            {
+                "apc_name_ar": "سيدي عبد الجبار",
+                "apc_name_ascii": "Sidi Abdeldjebar"
+            },
+            {
+                "apc_name_ar": "الحشم",
+                "apc_name_ascii": "El Hachem"
+            },
+            {
+                "apc_name_ar": "نسمط",
+                "apc_name_ascii": "Nesmot"
+            },
+            {
+                "apc_name_ar": "زلامطة",
+                "apc_name_ascii": "Zelamta"
+            },
+            {
+                "apc_name_ar": "عين فراح",
+                "apc_name_ascii": "Ain Ferah"
+            },
+            {
+                "apc_name_ar": "وادي التاغية",
+                "apc_name_ascii": "Oued Taria"
+            }
+        ]
+    },
+    "ouargla": {
+        "wilaya_code": "30",
+        "wilaya_name_ar": "ورقلة",
+        "wilaya_name_ascii": "Ouargla",
+        "apcs": [
+            {
+                "apc_name_ar": "ورقلة",
+                "apc_name_ascii": "Ouargla"
+            },
+            {
+                "apc_name_ar": "حاسي مسعود",
+                "apc_name_ascii": "Hassi Messaoud"
+            },
+            {
+                "apc_name_ar": "عين البيضاء",
+                "apc_name_ascii": "Ain Beida"
+            },
+            {
+                "apc_name_ar": "حاسي بن عبد الله",
+                "apc_name_ascii": "Hassi Ben Abdellah"
+            },
+            {
+                "apc_name_ar": "سيدي خويلد",
+                "apc_name_ascii": "Sidi Khouiled"
+            },
+            {
+                "apc_name_ar": "البرمة",
+                "apc_name_ascii": "El Borma"
+            },
+            {
+                "apc_name_ar": "الرويسات",
+                "apc_name_ascii": "Rouissat"
+            },
+            {
+                "apc_name_ar": "انقوسة",
+                "apc_name_ascii": "N'goussa"
+            }
+        ]
+    },
+    "oran": {
+        "wilaya_code": "31",
+        "wilaya_name_ar": "وهران",
+        "wilaya_name_ascii": "Oran",
+        "apcs": [
+            {
+                "apc_name_ar": "سيدي الشحمي",
+                "apc_name_ascii": "Sidi Chami"
+            },
+            {
+                "apc_name_ar": "حاسي مفسوخ",
+                "apc_name_ascii": "Hassi Mefsoukh"
+            },
+            {
+                "apc_name_ar": "بئر الجير",
+                "apc_name_ascii": "Bir El Djir"
+            },
+            {
+                "apc_name_ar": "حاسي بن عقبة",
+                "apc_name_ascii": "Hassi Ben Okba"
+            },
+            {
+                "apc_name_ar": "قديل",
+                "apc_name_ascii": "Gdyel"
+            },
+            {
+                "apc_name_ar": "حاسي بونيف",
+                "apc_name_ascii": "Hassi Bounif"
+            },
+            {
+                "apc_name_ar": "الكرمة",
+                "apc_name_ascii": "El Kerma"
+            },
+            {
+                "apc_name_ar": "السانية",
+                "apc_name_ascii": "Es Senia"
+            },
+            {
+                "apc_name_ar": "بن فريحة",
+                "apc_name_ascii": "Ben Freha"
+            },
+            {
+                "apc_name_ar": "أرزيو",
+                "apc_name_ascii": "Arzew"
+            },
+            {
+                "apc_name_ar": "سيدي بن يبقى",
+                "apc_name_ascii": "Sidi Ben Yebka"
+            },
+            {
+                "apc_name_ar": "عين البية",
+                "apc_name_ascii": "Ain Biya"
+            },
+            {
+                "apc_name_ar": "بطيوة",
+                "apc_name_ascii": "Bethioua"
+            },
+            {
+                "apc_name_ar": "مرسى الحجاج",
+                "apc_name_ascii": "Marsat El Hadjadj"
+            },
+            {
+                "apc_name_ar": "عين الترك",
+                "apc_name_ascii": "Ain Turk"
+            },
+            {
+                "apc_name_ar": "وهران",
+                "apc_name_ascii": "Oran"
+            },
+            {
+                "apc_name_ar": "العنصر",
+                "apc_name_ascii": "El Ancor"
+            },
+            {
+                "apc_name_ar": "المرسى الكبير",
+                "apc_name_ascii": "Mers El Kebir"
+            },
+            {
+                "apc_name_ar": "بوفاتيس",
+                "apc_name_ascii": "Boufatis"
+            },
+            {
+                "apc_name_ar": "البراية",
+                "apc_name_ascii": "El Braya"
+            },
+            {
+                "apc_name_ar": "وادي تليلات",
+                "apc_name_ascii": "Oued Tlelat"
+            },
+            {
+                "apc_name_ar": "عين الكرمة",
+                "apc_name_ascii": "Ain Kerma"
+            },
+            {
+                "apc_name_ar": "بوتليليس",
+                "apc_name_ascii": "Boutlelis"
+            },
+            {
+                "apc_name_ar": "مسرغين",
+                "apc_name_ascii": "Messerghin"
+            },
+            {
+                "apc_name_ar": "بوسفر",
+                "apc_name_ascii": "Bousfer"
+            },
+            {
+                "apc_name_ar": "طفراوي",
+                "apc_name_ascii": "Tafraoui"
+            }
+        ]
+    },
+    "el_bayadh": {
+        "wilaya_code": "32",
+        "wilaya_name_ar": "البيض",
+        "wilaya_name_ascii": "El Bayadh",
+        "apcs": [
+            {
+                "apc_name_ar": "عين العراك",
+                "apc_name_ascii": "Ain El Orak"
+            },
+            {
+                "apc_name_ar": "كراكدة",
+                "apc_name_ascii": "Krakda"
+            },
+            {
+                "apc_name_ar": "سيدي سليمان",
+                "apc_name_ascii": "Sidi Slimane"
+            },
+            {
+                "apc_name_ar": "سيدي عامر",
+                "apc_name_ascii": "Sidi Ameur"
+            },
+            {
+                "apc_name_ar": "بوعلام",
+                "apc_name_ascii": "Boualem"
+            },
+            {
+                "apc_name_ar": "البنود",
+                "apc_name_ascii": "El Bnoud"
+            },
+            {
+                "apc_name_ar": "بوقطب",
+                "apc_name_ascii": "Bougtoub"
+            },
+            {
+                "apc_name_ar": "الخيثر",
+                "apc_name_ascii": "El Kheiter"
+            },
+            {
+                "apc_name_ar": "توسمولين",
+                "apc_name_ascii": "Tousmouline"
+            },
+            {
+                "apc_name_ar": "سيدي طيفور",
+                "apc_name_ascii": "Sidi Tiffour"
+            },
+            {
+                "apc_name_ar": "ستيتن",
+                "apc_name_ascii": "Stitten"
+            },
+            {
+                "apc_name_ar": "البيض",
+                "apc_name_ascii": "El Bayadh"
+            },
+            {
+                "apc_name_ar": "رقاصة",
+                "apc_name_ascii": "Rogassa"
+            },
+            {
+                "apc_name_ar": "المحرة",
+                "apc_name_ascii": "El Mehara"
+            },
+            {
+                "apc_name_ar": "الكاف الأحمر",
+                "apc_name_ascii": "Kef El Ahmar"
+            },
+            {
+                "apc_name_ar": "بريزينة",
+                "apc_name_ascii": "Brezina"
+            },
+            {
+                "apc_name_ar": "الغاسول",
+                "apc_name_ascii": "Ghassoul"
+            },
+            {
+                "apc_name_ar": "الأبيض سيدي الشيخ",
+                "apc_name_ascii": "Labiodh Sidi Cheikh"
+            },
+            {
+                "apc_name_ar": "بوسمغون",
+                "apc_name_ascii": "Boussemghoun"
+            },
+            {
+                "apc_name_ar": "الشقيق",
+                "apc_name_ascii": "Cheguig"
+            },
+            {
+                "apc_name_ar": "شلالة",
+                "apc_name_ascii": "Chellala"
+            },
+            {
+                "apc_name_ar": "اربوات",
+                "apc_name_ascii": "Arbaouat"
+            }
+        ]
+    },
+    "illizi": {
+        "wilaya_code": "33",
+        "wilaya_name_ar": "إليزي",
+        "wilaya_name_ascii": "Illizi",
+        "apcs": [
+            {
+                "apc_name_ar": "برج عمر إدريس",
+                "apc_name_ascii": "Bordj Omar Driss"
+            },
+            {
+                "apc_name_ar": "دبداب",
+                "apc_name_ascii": "Debdeb"
+            },
+            {
+                "apc_name_ar": "إن أمناس",
+                "apc_name_ascii": "In Amenas"
+            },
+            {
+                "apc_name_ar": "إيليزي",
+                "apc_name_ascii": "Illizi"
+            }
+        ]
+    },
+    "bordj_bou_arreridj": {
+        "wilaya_code": "34",
+        "wilaya_name_ar": "برج بوعريريج",
+        "wilaya_name_ascii": "Bordj Bou Arreridj",
+        "apcs": [
+            {
+                "apc_name_ar": "الحمادية",
+                "apc_name_ascii": "Elhammadia"
+            },
+            {
+                "apc_name_ar": "أولاد سيدي ابراهيم",
+                "apc_name_ascii": "Ouled Sidi-Brahim"
+            },
+            {
+                "apc_name_ar": "عين تاغروت",
+                "apc_name_ascii": "Ain Taghrout"
+            },
+            {
+                "apc_name_ar": "تيكستار",
+                "apc_name_ascii": "Tixter"
+            },
+            {
+                "apc_name_ar": "بليمور",
+                "apc_name_ascii": "Belimour"
+            },
+            {
+                "apc_name_ar": "العناصر",
+                "apc_name_ascii": "El Annasseur"
+            },
+            {
+                "apc_name_ar": "غيلاسة",
+                "apc_name_ascii": "Ghailasa"
+            },
+            {
+                "apc_name_ar": "تقلعيت",
+                "apc_name_ascii": "Taglait"
+            },
+            {
+                "apc_name_ar": "برج الغدير",
+                "apc_name_ascii": "Bordj Ghedir"
+            },
+            {
+                "apc_name_ar": "العش",
+                "apc_name_ascii": "El Euch"
+            },
+            {
+                "apc_name_ar": "سيدي أمبارك",
+                "apc_name_ascii": "Sidi-Embarek"
+            },
+            {
+                "apc_name_ar": "خليل",
+                "apc_name_ascii": "Khelil"
+            },
+            {
+                "apc_name_ar": "بئر قاصد علي",
+                "apc_name_ascii": "Bir Kasdali"
+            },
+            {
+                "apc_name_ar": "تفرق",
+                "apc_name_ascii": "Tefreg"
+            },
+            {
+                "apc_name_ar": "الماين",
+                "apc_name_ascii": "El Main"
+            },
+            {
+                "apc_name_ar": "جعافرة",
+                "apc_name_ascii": "Djaafra"
+            },
+            {
+                "apc_name_ar": "القلة",
+                "apc_name_ascii": "Colla"
+            },
+            {
+                "apc_name_ar": "ثنية النصر",
+                "apc_name_ascii": "Teniet En Nasr"
+            },
+            {
+                "apc_name_ar": "المهير",
+                "apc_name_ascii": "El M'hir"
+            },
+            {
+                "apc_name_ar": "القصور",
+                "apc_name_ascii": "Ksour"
+            },
+            {
+                "apc_name_ar": "المنصورة",
+                "apc_name_ascii": "Mansoura"
+            },
+            {
+                "apc_name_ar": "حرازة",
+                "apc_name_ascii": "Haraza"
+            },
+            {
+                "apc_name_ar": "الرابطة",
+                "apc_name_ascii": "Rabta"
+            },
+            {
+                "apc_name_ar": "الياشير",
+                "apc_name_ascii": "El Achir"
+            },
+            {
+                "apc_name_ar": "حسناوة",
+                "apc_name_ascii": "Hasnaoua"
+            },
+            {
+                "apc_name_ar": "مجانة",
+                "apc_name_ascii": "Medjana"
+            },
+            {
+                "apc_name_ar": "عين تسرة",
+                "apc_name_ascii": "Ain Tesra"
+            },
+            {
+                "apc_name_ar": "أولاد أبراهم",
+                "apc_name_ascii": "Ouled Brahem"
+            },
+            {
+                "apc_name_ar": "رأس الوادي",
+                "apc_name_ascii": "Ras El Oued"
+            },
+            {
+                "apc_name_ar": "برج زمورة",
+                "apc_name_ascii": "Bordj Zemmoura"
+            },
+            {
+                "apc_name_ar": "أولاد دحمان",
+                "apc_name_ascii": "Ouled Dahmane"
+            },
+            {
+                "apc_name_ar": "تسامرت",
+                "apc_name_ascii": "Tassamert"
+            },
+            {
+                "apc_name_ar": "برج بوعريرج",
+                "apc_name_ascii": "B. B. Arreridj"
+            },
+            {
+                "apc_name_ar": "بن داود",
+                "apc_name_ascii": "Ben Daoud"
+            }
+        ]
+    },
+    "boumerdès": {
+        "wilaya_code": "35",
+        "wilaya_name_ar": "بومرداس",
+        "wilaya_name_ascii": "Boumerdès",
+        "apcs": [
+            {
+                "apc_name_ar": "الخروبة",
+                "apc_name_ascii": "El Kharrouba"
+            },
+            {
+                "apc_name_ar": "دلس",
+                "apc_name_ascii": "Dellys"
+            },
+            {
+                "apc_name_ar": "بن شود",
+                "apc_name_ascii": "Ben Choud"
+            },
+            {
+                "apc_name_ar": "أعفير",
+                "apc_name_ascii": "Afir"
+            },
+            {
+                "apc_name_ar": "الثنية",
+                "apc_name_ascii": "Thenia"
+            },
+            {
+                "apc_name_ar": "بني عمران",
+                "apc_name_ascii": "Beni Amrane"
+            },
+            {
+                "apc_name_ar": "خميس الخشنة",
+                "apc_name_ascii": "Khemis El Khechna"
+            },
+            {
+                "apc_name_ar": "عمال",
+                "apc_name_ascii": "Ammal"
+            },
+            {
+                "apc_name_ar": "تيمزريت",
+                "apc_name_ascii": "Timezrit"
+            },
+            {
+                "apc_name_ar": "زموري",
+                "apc_name_ascii": "Zemmouri"
+            },
+            {
+                "apc_name_ar": "الاربعطاش",
+                "apc_name_ascii": "Larbatache"
+            },
+            {
+                "apc_name_ar": "يسر",
+                "apc_name_ascii": "Isser"
+            },
+            {
+                "apc_name_ar": "شعبة العامر",
+                "apc_name_ascii": "Chabet El Ameur"
+            },
+            {
+                "apc_name_ar": "أولاد عيسى",
+                "apc_name_ascii": "Ouled Aissa"
+            },
+            {
+                "apc_name_ar": "الناصرية",
+                "apc_name_ascii": "Naciria"
+            },
+            {
+                "apc_name_ar": "بوزقزة قدارة",
+                "apc_name_ascii": "Bouzegza Keddara"
+            },
+            {
+                "apc_name_ar": "سوق الحد",
+                "apc_name_ascii": "Souk El Had"
+            },
+            {
+                "apc_name_ar": "سيدي داود",
+                "apc_name_ascii": "Sidi Daoud"
+            },
+            {
+                "apc_name_ar": "بغلية",
+                "apc_name_ascii": "Baghlia"
+            },
+            {
+                "apc_name_ar": "لقاطة",
+                "apc_name_ascii": "Leghata"
+            },
+            {
+                "apc_name_ar": "جنات",
+                "apc_name_ascii": "Djinet"
+            },
+            {
+                "apc_name_ar": "تيجلابين",
+                "apc_name_ascii": "Tidjelabine"
+            },
+            {
+                "apc_name_ar": "سي مصطفى",
+                "apc_name_ascii": "Si Mustapha"
+            },
+            {
+                "apc_name_ar": "أولاد هداج",
+                "apc_name_ascii": "Ouled Hedadj"
+            },
+            {
+                "apc_name_ar": "أولاد موسى",
+                "apc_name_ascii": "Ouled Moussa"
+            },
+            {
+                "apc_name_ar": "بومرداس",
+                "apc_name_ascii": "Boumerdes"
+            },
+            {
+                "apc_name_ar": "قورصو",
+                "apc_name_ascii": "Corso"
+            },
+            {
+                "apc_name_ar": "برج منايل",
+                "apc_name_ascii": "Bordj Menaiel"
+            },
+            {
+                "apc_name_ar": "بودواو",
+                "apc_name_ascii": "Boudouaou"
+            },
+            {
+                "apc_name_ar": "بودواو البحري",
+                "apc_name_ascii": "Boudouaou El Bahri"
+            },
+            {
+                "apc_name_ar": "تاورقة",
+                "apc_name_ascii": "Taourga"
+            },
+            {
+                "apc_name_ar": "حمادي",
+                "apc_name_ascii": "Hammedi"
+            }
+        ]
+    },
+    "el_tarf": {
+        "wilaya_code": "36",
+        "wilaya_name_ar": "الطارف",
+        "wilaya_name_ascii": "El Tarf",
+        "apcs": [
+            {
+                "apc_name_ar": "عين العسل",
+                "apc_name_ascii": "Ain El Assel"
+            },
+            {
+                "apc_name_ar": "بوقوس",
+                "apc_name_ascii": "Bougous"
+            },
+            {
+                "apc_name_ar": "الطارف",
+                "apc_name_ascii": "El Tarf"
+            },
+            {
+                "apc_name_ar": "الزيتونة",
+                "apc_name_ascii": "Zitouna"
+            },
+            {
+                "apc_name_ar": "البسباس",
+                "apc_name_ascii": "Besbes"
+            },
+            {
+                "apc_name_ar": "عين الكرمة",
+                "apc_name_ascii": "Ain Kerma"
+            },
+            {
+                "apc_name_ar": "بوحجار",
+                "apc_name_ascii": "Bouhadjar"
+            },
+            {
+                "apc_name_ar": "حمام بني صالح",
+                "apc_name_ascii": "Hammam Beni Salah"
+            },
+            {
+                "apc_name_ar": "وادي الزيتون",
+                "apc_name_ascii": "Oued Zitoun"
+            },
+            {
+                "apc_name_ar": "بن مهيدي",
+                "apc_name_ascii": "Ben M Hidi"
+            },
+            {
+                "apc_name_ar": "بريحان",
+                "apc_name_ascii": "Berrihane"
+            },
+            {
+                "apc_name_ar": "شبيطة مختار",
+                "apc_name_ascii": "Chebaita Mokhtar"
+            },
+            {
+                "apc_name_ar": "الشط",
+                "apc_name_ascii": "Echatt"
+            },
+            {
+                "apc_name_ar": "العيون",
+                "apc_name_ascii": "El Aioun"
+            },
+            {
+                "apc_name_ar": "القالة",
+                "apc_name_ascii": "El Kala"
+            },
+            {
+                "apc_name_ar": "السوارخ",
+                "apc_name_ascii": "Souarekh"
+            },
+            {
+                "apc_name_ar": "زريزر",
+                "apc_name_ascii": "Zerizer"
+            },
+            {
+                "apc_name_ar": "بوثلجة",
+                "apc_name_ascii": "Bouteldja"
+            },
+            {
+                "apc_name_ar": "الشافية",
+                "apc_name_ascii": "Chefia"
+            },
+            {
+                "apc_name_ar": "بحيرة الطيور",
+                "apc_name_ascii": "Lac Des Oiseaux"
+            },
+            {
+                "apc_name_ar": "شحاني",
+                "apc_name_ascii": "Chihani"
+            },
+            {
+                "apc_name_ar": "رمل السوق",
+                "apc_name_ascii": "Raml Souk"
+            },
+            {
+                "apc_name_ar": "عصفور",
+                "apc_name_ascii": "Asfour"
+            },
+            {
+                "apc_name_ar": "الذرعـان",
+                "apc_name_ascii": "Drean"
+            }
+        ]
+    },
+    "tindouf": {
+        "wilaya_code": "37",
+        "wilaya_name_ar": "تندوف",
+        "wilaya_name_ascii": "Tindouf",
+        "apcs": [
+            {
+                "apc_name_ar": "تندوف",
+                "apc_name_ascii": "Tindouf"
+            },
+            {
+                "apc_name_ar": "أم العسل",
+                "apc_name_ascii": "Oum El Assel"
+            }
+        ]
+    },
+    "tissemsilt": {
+        "wilaya_code": "38",
+        "wilaya_name_ar": "تيسمسيلت",
+        "wilaya_name_ascii": "Tissemsilt",
+        "apcs": [
+            {
+                "apc_name_ar": "خميستي",
+                "apc_name_ascii": "Khemisti"
+            },
+            {
+                "apc_name_ar": "ثنية الاحد",
+                "apc_name_ascii": "Theniet El Had"
+            },
+            {
+                "apc_name_ar": "أولاد بسام",
+                "apc_name_ascii": "Ouled Bessam"
+            },
+            {
+                "apc_name_ar": "سيدي بوتوشنت",
+                "apc_name_ascii": "Sidi Boutouchent"
+            },
+            {
+                "apc_name_ar": "تيسمسيلت",
+                "apc_name_ascii": "Tissemsilt"
+            },
+            {
+                "apc_name_ar": "سيدي العنتري",
+                "apc_name_ascii": "Sidi Lantri"
+            },
+            {
+                "apc_name_ar": "بني شعيب",
+                "apc_name_ascii": "Beni Chaib"
+            },
+            {
+                "apc_name_ar": "بني لحسن",
+                "apc_name_ascii": "Beni Lahcene"
+            },
+            {
+                "apc_name_ar": "سيدي عابد",
+                "apc_name_ascii": "Sidi Abed"
+            },
+            {
+                "apc_name_ar": "سيدي سليمان",
+                "apc_name_ascii": "Sidi Slimane"
+            },
+            {
+                "apc_name_ar": "بوقائد",
+                "apc_name_ascii": "Boucaid"
+            },
+            {
+                "apc_name_ar": "الأربعاء",
+                "apc_name_ascii": "Larbaa"
+            },
+            {
+                "apc_name_ar": "الأزهرية",
+                "apc_name_ascii": "Lazharia"
+            },
+            {
+                "apc_name_ar": "لرجام",
+                "apc_name_ascii": "Lardjem"
+            },
+            {
+                "apc_name_ar": "الملعب",
+                "apc_name_ascii": "Melaab"
+            },
+            {
+                "apc_name_ar": "العيون",
+                "apc_name_ascii": "Layoune"
+            },
+            {
+                "apc_name_ar": "تملاحت",
+                "apc_name_ascii": "Tamellahet"
+            },
+            {
+                "apc_name_ar": "اليوسفية",
+                "apc_name_ascii": "Youssoufia"
+            },
+            {
+                "apc_name_ar": "برج الأمير عبد القادر",
+                "apc_name_ascii": "Bordj El Emir Abdelkader"
+            },
+            {
+                "apc_name_ar": "عماري",
+                "apc_name_ascii": "Ammari"
+            },
+            {
+                "apc_name_ar": "المعاصم",
+                "apc_name_ascii": "Maacem"
+            },
+            {
+                "apc_name_ar": "برج بونعامة",
+                "apc_name_ascii": "Bordj Bounaama"
+            }
+        ]
+    },
+    "el_oued": {
+        "wilaya_code": "39",
+        "wilaya_name_ar": "الوادي",
+        "wilaya_name_ascii": "El Oued",
+        "apcs": [
+            {
+                "apc_name_ar": "دوار الماء",
+                "apc_name_ascii": "Douar El Maa"
+            },
+            {
+                "apc_name_ar": "العقلة",
+                "apc_name_ascii": "El Ogla"
+            },
+            {
+                "apc_name_ar": "المقرن",
+                "apc_name_ascii": "Magrane"
+            },
+            {
+                "apc_name_ar": "سيدي عون",
+                "apc_name_ascii": "Sidi Aoun"
+            },
+            {
+                "apc_name_ar": "اميه وانسة",
+                "apc_name_ascii": "Mih Ouansa"
+            },
+            {
+                "apc_name_ar": "كوينين",
+                "apc_name_ascii": "Kouinine"
+            },
+            {
+                "apc_name_ar": "البياضة",
+                "apc_name_ascii": "Bayadha"
+            },
+            {
+                "apc_name_ar": "النخلة",
+                "apc_name_ascii": "Nakhla"
+            },
+            {
+                "apc_name_ar": "الرباح",
+                "apc_name_ascii": "Robbah"
+            },
+            {
+                "apc_name_ar": "قمار",
+                "apc_name_ascii": "Guemar"
+            },
+            {
+                "apc_name_ar": "بن  قشة",
+                "apc_name_ascii": "Ben Guecha"
+            },
+            {
+                "apc_name_ar": "ورماس",
+                "apc_name_ascii": "Ourmes"
+            },
+            {
+                "apc_name_ar": "تغزوت",
+                "apc_name_ascii": "Taghzout"
+            },
+            {
+                "apc_name_ar": "الحمراية",
+                "apc_name_ascii": "Hamraia"
+            },
+            {
+                "apc_name_ar": "الرقيبة",
+                "apc_name_ascii": "Reguiba"
+            },
+            {
+                "apc_name_ar": "الدبيلة",
+                "apc_name_ascii": "Debila"
+            },
+            {
+                "apc_name_ar": "حساني عبد الكريم",
+                "apc_name_ascii": "Hassani Abdelkrim"
+            },
+            {
+                "apc_name_ar": "حاسي خليفة",
+                "apc_name_ascii": "Hassi Khalifa"
+            },
+            {
+                "apc_name_ar": "الطريفاوي",
+                "apc_name_ascii": "Trifaoui"
+            },
+            {
+                "apc_name_ar": "الطالب العربي",
+                "apc_name_ascii": "Taleb Larbi"
+            },
+            {
+                "apc_name_ar": "وادي العلندة",
+                "apc_name_ascii": "Oued El Alenda"
+            },
+            {
+                "apc_name_ar": "الوادي",
+                "apc_name_ascii": "El-Oued"
+            }
+        ]
+    },
+    "khenchela": {
+        "wilaya_code": "40",
+        "wilaya_name_ar": "خنشلة",
+        "wilaya_name_ascii": "Khenchela",
+        "apcs": [
+            {
+                "apc_name_ar": "خيران",
+                "apc_name_ascii": "Khirane"
+            },
+            {
+                "apc_name_ar": "بابار",
+                "apc_name_ascii": "Babar"
+            },
+            {
+                "apc_name_ar": "المحمل",
+                "apc_name_ascii": "El Mahmal"
+            },
+            {
+                "apc_name_ar": "أولاد رشاش",
+                "apc_name_ascii": "Ouled Rechache"
+            },
+            {
+                "apc_name_ar": "جلال",
+                "apc_name_ascii": "Djellal"
+            },
+            {
+                "apc_name_ar": "يابوس",
+                "apc_name_ascii": "Yabous"
+            },
+            {
+                "apc_name_ar": "خنشلة",
+                "apc_name_ascii": "Khenchela"
+            },
+            {
+                "apc_name_ar": "قايس",
+                "apc_name_ascii": "Kais"
+            },
+            {
+                "apc_name_ar": "شلية",
+                "apc_name_ascii": "Chelia"
+            },
+            {
+                "apc_name_ar": "الرميلة",
+                "apc_name_ascii": "Remila"
+            },
+            {
+                "apc_name_ar": "تاوزيانت",
+                "apc_name_ascii": "Taouzianat"
+            },
+            {
+                "apc_name_ar": "بغاي",
+                "apc_name_ascii": "Baghai"
+            },
+            {
+                "apc_name_ar": "الحامة",
+                "apc_name_ascii": "El Hamma"
+            },
+            {
+                "apc_name_ar": "انسيغة",
+                "apc_name_ascii": "Ensigha"
+            },
+            {
+                "apc_name_ar": "طامزة",
+                "apc_name_ascii": "Tamza"
+            },
+            {
+                "apc_name_ar": "عين الطويلة",
+                "apc_name_ascii": "Ain Touila"
+            },
+            {
+                "apc_name_ar": "متوسة",
+                "apc_name_ascii": "M'toussa"
+            },
+            {
+                "apc_name_ar": "بوحمامة",
+                "apc_name_ascii": "Bouhmama"
+            },
+            {
+                "apc_name_ar": "الولجة",
+                "apc_name_ascii": "El Oueldja"
+            },
+            {
+                "apc_name_ar": "مصارة",
+                "apc_name_ascii": "M'sara"
+            },
+            {
+                "apc_name_ar": "ششار",
+                "apc_name_ascii": "Chechar"
+            }
+        ]
+    },
+    "souk_ahras": {
+        "wilaya_code": "41",
+        "wilaya_name_ar": "سوق أهراس",
+        "wilaya_name_ascii": "Souk Ahras",
+        "apcs": [
+            {
+                "apc_name_ar": "سوق أهراس",
+                "apc_name_ascii": "Souk Ahras"
+            },
+            {
+                "apc_name_ar": "عين سلطان",
+                "apc_name_ascii": "Ain Soltane"
+            },
+            {
+                "apc_name_ar": "سدراتة",
+                "apc_name_ascii": "Sedrata"
+            },
+            {
+                "apc_name_ar": "الحنانشة",
+                "apc_name_ascii": "Hanencha"
+            },
+            {
+                "apc_name_ar": "المشروحة",
+                "apc_name_ascii": "Machroha"
+            },
+            {
+                "apc_name_ar": "عين الزانة",
+                "apc_name_ascii": "Ain Zana"
+            },
+            {
+                "apc_name_ar": "أولاد إدريس",
+                "apc_name_ascii": "Ouled Driss"
+            },
+            {
+                "apc_name_ar": "ترقالت",
+                "apc_name_ascii": "Terraguelt"
+            },
+            {
+                "apc_name_ar": "أم العظايم",
+                "apc_name_ascii": "Oum El Adhaim"
+            },
+            {
+                "apc_name_ar": "وادي الكبريت",
+                "apc_name_ascii": "Oued Kebrit"
+            },
+            {
+                "apc_name_ar": "تيفاش",
+                "apc_name_ascii": "Tiffech"
+            },
+            {
+                "apc_name_ar": "الراقوبة",
+                "apc_name_ascii": "Ragouba"
+            },
+            {
+                "apc_name_ar": "الدريعة",
+                "apc_name_ascii": "Drea"
+            },
+            {
+                "apc_name_ar": "تاورة",
+                "apc_name_ascii": "Taoura"
+            },
+            {
+                "apc_name_ar": "الزعرورية",
+                "apc_name_ascii": "Zaarouria"
+            },
+            {
+                "apc_name_ar": "الحدادة",
+                "apc_name_ascii": "Haddada"
+            },
+            {
+                "apc_name_ar": "الخضارة",
+                "apc_name_ascii": "Khedara"
+            },
+            {
+                "apc_name_ar": "أولاد مومن",
+                "apc_name_ascii": "Ouled Moumen"
+            },
+            {
+                "apc_name_ar": "المراهنة",
+                "apc_name_ascii": "Merahna"
+            },
+            {
+                "apc_name_ar": "ويلان",
+                "apc_name_ascii": "Ouillen"
+            },
+            {
+                "apc_name_ar": "سيدي فرج",
+                "apc_name_ascii": "Sidi Fredj"
+            },
+            {
+                "apc_name_ar": "بئر بوحوش",
+                "apc_name_ascii": "Bir Bouhouche"
+            },
+            {
+                "apc_name_ar": "سافل الويدان",
+                "apc_name_ascii": "Safel El Ouiden"
+            },
+            {
+                "apc_name_ar": "خميسة",
+                "apc_name_ascii": "Khemissa"
+            },
+            {
+                "apc_name_ar": "مداوروش",
+                "apc_name_ascii": "M'daourouche"
+            },
+            {
+                "apc_name_ar": "الزوابي",
+                "apc_name_ascii": "Zouabi"
+            }
+        ]
+    },
+    "tipaza": {
+        "wilaya_code": "42",
+        "wilaya_name_ar": "تيبازة",
+        "wilaya_name_ascii": "Tipaza",
+        "apcs": [
+            {
+                "apc_name_ar": "حجوط",
+                "apc_name_ascii": "Hadjout"
+            },
+            {
+                "apc_name_ar": "مراد",
+                "apc_name_ascii": "Merad"
+            },
+            {
+                "apc_name_ar": "مناصر",
+                "apc_name_ascii": "Menaceur"
+            },
+            {
+                "apc_name_ar": "أغبال",
+                "apc_name_ascii": "Aghbal"
+            },
+            {
+                "apc_name_ar": "الناظور",
+                "apc_name_ascii": "Nador"
+            },
+            {
+                "apc_name_ar": "سيدي عامر",
+                "apc_name_ascii": "Sidi-Amar"
+            },
+            {
+                "apc_name_ar": "قوراية",
+                "apc_name_ascii": "Gouraya"
+            },
+            {
+                "apc_name_ar": "مسلمون",
+                "apc_name_ascii": "Messelmoun"
+            },
+            {
+                "apc_name_ar": "شرشال",
+                "apc_name_ascii": "Cherchell"
+            },
+            {
+                "apc_name_ar": "حجرة النص",
+                "apc_name_ascii": "Hadjret Ennous"
+            },
+            {
+                "apc_name_ar": "سيدي غيلاس",
+                "apc_name_ascii": "Sidi Ghiles"
+            },
+            {
+                "apc_name_ar": "الداموس",
+                "apc_name_ascii": "Damous"
+            },
+            {
+                "apc_name_ar": "الأرهاط",
+                "apc_name_ascii": "Larhat"
+            },
+            {
+                "apc_name_ar": "فوكة",
+                "apc_name_ascii": "Fouka"
+            },
+            {
+                "apc_name_ar": "عين تاقورايت",
+                "apc_name_ascii": "Ain Tagourait"
+            },
+            {
+                "apc_name_ar": "بوهارون",
+                "apc_name_ascii": "Bou Haroun"
+            },
+            {
+                "apc_name_ar": "بواسماعيل",
+                "apc_name_ascii": "Bou Ismail"
+            },
+            {
+                "apc_name_ar": "خميستي",
+                "apc_name_ascii": "Khemisti"
+            },
+            {
+                "apc_name_ar": "أحمر العين",
+                "apc_name_ascii": "Ahmer El Ain"
+            },
+            {
+                "apc_name_ar": "بورقيقة",
+                "apc_name_ascii": "Bourkika"
+            },
+            {
+                "apc_name_ar": "دواودة",
+                "apc_name_ascii": "Douaouda"
+            },
+            {
+                "apc_name_ar": "سيدي راشد",
+                "apc_name_ascii": "Sidi Rached"
+            },
+            {
+                "apc_name_ar": "الحطاطبة",
+                "apc_name_ascii": "Attatba"
+            },
+            {
+                "apc_name_ar": "الشعيبة",
+                "apc_name_ascii": "Chaiba"
+            },
+            {
+                "apc_name_ar": "القليعة",
+                "apc_name_ascii": "Kolea"
+            },
+            {
+                "apc_name_ar": "سيدي سميان",
+                "apc_name_ascii": "Sidi Semiane"
+            },
+            {
+                "apc_name_ar": "تيبازة",
+                "apc_name_ascii": "Tipaza"
+            },
+            {
+                "apc_name_ar": "بني ميلك",
+                "apc_name_ascii": "Beni Mileuk"
+            }
+        ]
+    },
+    "mila": {
+        "wilaya_code": "43",
+        "wilaya_name_ar": "ميلة",
+        "wilaya_name_ascii": "Mila",
+        "apcs": [
+            {
+                "apc_name_ar": "مشيرة",
+                "apc_name_ascii": "El Mechira"
+            },
+            {
+                "apc_name_ar": "العياضي برباس",
+                "apc_name_ascii": "El Ayadi Barbes"
+            },
+            {
+                "apc_name_ar": " عين البيضاء أحريش",
+                "apc_name_ascii": "Ain Beida Harriche"
+            },
+            {
+                "apc_name_ar": "تسالة لمطاعي",
+                "apc_name_ascii": "Tassala Lematai"
+            },
+            {
+                "apc_name_ar": "ترعي باينان",
+                "apc_name_ascii": "Terrai Bainen"
+            },
+            {
+                "apc_name_ar": "اعميرة اراس",
+                "apc_name_ascii": "Amira Arres"
+            },
+            {
+                "apc_name_ar": "تسدان حدادة",
+                "apc_name_ascii": "Tassadane Haddada"
+            },
+            {
+                "apc_name_ar": "مينار زارزة",
+                "apc_name_ascii": "Minar Zarza"
+            },
+            {
+                "apc_name_ar": "سيدي مروان",
+                "apc_name_ascii": "Sidi Merouane"
+            },
+            {
+                "apc_name_ar": "الشيقارة",
+                "apc_name_ascii": "Chigara"
+            },
+            {
+                "apc_name_ar": "حمالة",
+                "apc_name_ascii": "Hamala"
+            },
+            {
+                "apc_name_ar": "القرارم قوقة",
+                "apc_name_ascii": "Grarem Gouga"
+            },
+            {
+                "apc_name_ar": "تيبرقنت",
+                "apc_name_ascii": "Tiberguent"
+            },
+            {
+                "apc_name_ar": "الرواشد",
+                "apc_name_ascii": "Rouached"
+            },
+            {
+                "apc_name_ar": "دراحي بوصلاح",
+                "apc_name_ascii": "Derrahi Bousselah"
+            },
+            {
+                "apc_name_ar": "زغاية",
+                "apc_name_ascii": "Zeghaia"
+            },
+            {
+                "apc_name_ar": "وادي النجاء",
+                "apc_name_ascii": "Oued Endja"
+            },
+            {
+                "apc_name_ar": "أحمد راشدي",
+                "apc_name_ascii": "Ahmed Rachedi"
+            },
+            {
+                "apc_name_ar": "تاجنانت",
+                "apc_name_ascii": "Tadjenanet"
+            },
+            {
+                "apc_name_ar": "عين الملوك",
+                "apc_name_ascii": "Ain Mellouk"
+            },
+            {
+                "apc_name_ar": "أولاد اخلوف",
+                "apc_name_ascii": "Ouled Khalouf"
+            },
+            {
+                "apc_name_ar": "بن يحي عبد الرحمن",
+                "apc_name_ascii": "Benyahia Abderrahmane"
+            },
+            {
+                "apc_name_ar": "التلاغمة",
+                "apc_name_ascii": "Teleghma"
+            },
+            {
+                "apc_name_ar": "وادي سقان",
+                "apc_name_ascii": "Oued Seguen"
+            },
+            {
+                "apc_name_ar": "وادي العثمانية",
+                "apc_name_ascii": "Oued Athmenia"
+            },
+            {
+                "apc_name_ar": "عين التين",
+                "apc_name_ascii": "Ain Tine"
+            },
+            {
+                "apc_name_ar": "شلغوم العيد",
+                "apc_name_ascii": "Chelghoum Laid"
+            },
+            {
+                "apc_name_ar": "يحي بني قشة",
+                "apc_name_ascii": "Yahia Beniguecha"
+            },
+            {
+                "apc_name_ar": "فرجيوة",
+                "apc_name_ascii": "Ferdjioua"
+            },
+            {
+                "apc_name_ar": "سيدي خليفة",
+                "apc_name_ascii": "Sidi Khelifa"
+            },
+            {
+                "apc_name_ar": "ميلة",
+                "apc_name_ascii": "Mila"
+            },
+            {
+                "apc_name_ar": "بوحاتم",
+                "apc_name_ascii": "Bouhatem"
+            }
+        ]
+    },
+    "aïn_defla": {
+        "wilaya_code": "44",
+        "wilaya_name_ar": "عين الدفلة",
+        "wilaya_name_ascii": "Aïn Defla",
+        "apcs": [
+            {
+                "apc_name_ar": "خميس مليانة",
+                "apc_name_ascii": "Khemis-Miliana"
+            },
+            {
+                "apc_name_ar": "سيدي الأخضر",
+                "apc_name_ascii": "Sidi-Lakhdar"
+            },
+            {
+                "apc_name_ar": "عين البنيان",
+                "apc_name_ascii": "Ain-Benian"
+            },
+            {
+                "apc_name_ar": "عين التركي",
+                "apc_name_ascii": "Ain-Torki"
+            },
+            {
+                "apc_name_ar": "حمام ريغة",
+                "apc_name_ascii": "Hammam-Righa"
+            },
+            {
+                "apc_name_ar": "بوراشد",
+                "apc_name_ascii": "Bourached"
+            },
+            {
+                "apc_name_ar": "الحسينية",
+                "apc_name_ascii": "Hoceinia"
+            },
+            {
+                "apc_name_ar": "جليدة",
+                "apc_name_ascii": "Djelida"
+            },
+            {
+                "apc_name_ar": "عريب",
+                "apc_name_ascii": "Arib"
+            },
+            {
+                "apc_name_ar": "جمعة أولاد الشيخ",
+                "apc_name_ascii": "Djemaa Ouled Cheikh"
+            },
+            {
+                "apc_name_ar": "العامرة",
+                "apc_name_ascii": "El-Amra"
+            },
+            {
+                "apc_name_ar": "العطاف",
+                "apc_name_ascii": "El-Attaf"
+            },
+            {
+                "apc_name_ar": "تبركانين",
+                "apc_name_ascii": "Tiberkanine"
+            },
+            {
+                "apc_name_ar": "عين بويحيى",
+                "apc_name_ascii": "Ain-Bouyahia"
+            },
+            {
+                "apc_name_ar": "العبادية",
+                "apc_name_ascii": "El-Abadia"
+            },
+            {
+                "apc_name_ar": "تاشتة زقاغة",
+                "apc_name_ascii": "Tacheta Zegagha"
+            },
+            {
+                "apc_name_ar": "بربوش",
+                "apc_name_ascii": "Birbouche"
+            },
+            {
+                "apc_name_ar": "جندل",
+                "apc_name_ascii": "Djendel"
+            },
+            {
+                "apc_name_ar": "بن علال",
+                "apc_name_ascii": "Ben Allal"
+            },
+            {
+                "apc_name_ar": "وادي الشرفاء",
+                "apc_name_ascii": "Oued Chorfa"
+            },
+            {
+                "apc_name_ar": "بومدفع",
+                "apc_name_ascii": "Boumedfaa"
+            },
+            {
+                "apc_name_ar": "عين الاشياخ",
+                "apc_name_ascii": "Ain-Lechiakh"
+            },
+            {
+                "apc_name_ar": "عين السلطان",
+                "apc_name_ascii": "Ain-Soltane"
+            },
+            {
+                "apc_name_ar": "واد الجمعة",
+                "apc_name_ascii": "Oued Djemaa"
+            },
+            {
+                "apc_name_ar": "الماين",
+                "apc_name_ascii": "El-Maine"
+            },
+            {
+                "apc_name_ar": "الروينة",
+                "apc_name_ascii": "Rouina"
+            },
+            {
+                "apc_name_ar": "زدين",
+                "apc_name_ascii": "Zeddine"
+            },
+            {
+                "apc_name_ar": "بئر ولد خليفة",
+                "apc_name_ascii": "Bir-Ould-Khelifa"
+            },
+            {
+                "apc_name_ar": "برج الأمير خالد",
+                "apc_name_ascii": "Bordj-Emir-Khaled"
+            },
+            {
+                "apc_name_ar": "طارق بن زياد",
+                "apc_name_ascii": "Tarik-Ibn-Ziad"
+            },
+            {
+                "apc_name_ar": "بطحية",
+                "apc_name_ascii": "Bathia"
+            },
+            {
+                "apc_name_ar": "بلعاص",
+                "apc_name_ascii": "Belaas"
+            },
+            {
+                "apc_name_ar": "الحسانية",
+                "apc_name_ascii": "Hassania"
+            },
+            {
+                "apc_name_ar": "عين الدفلى",
+                "apc_name_ascii": "Ain-Defla"
+            },
+            {
+                "apc_name_ar": "مليانة",
+                "apc_name_ascii": "Miliana"
+            },
+            {
+                "apc_name_ar": "المخاطرية",
+                "apc_name_ascii": "Mekhatria"
+            }
+        ]
+    },
+    "naâma": {
+        "wilaya_code": "45",
+        "wilaya_name_ar": "النعامة",
+        "wilaya_name_ascii": "Naâma",
+        "apcs": [
+            {
+                "apc_name_ar": "تيوت",
+                "apc_name_ascii": "Tiout"
+            },
+            {
+                "apc_name_ar": "مغرار",
+                "apc_name_ascii": "Moghrar"
+            },
+            {
+                "apc_name_ar": "عسلة",
+                "apc_name_ascii": "Asla"
+            },
+            {
+                "apc_name_ar": "القصدير",
+                "apc_name_ascii": "Kasdir"
+            },
+            {
+                "apc_name_ar": "مكمن بن عمار",
+                "apc_name_ascii": "Makmen Ben Amar"
+            },
+            {
+                "apc_name_ar": "عين الصفراء",
+                "apc_name_ascii": "Ain Sefra"
+            },
+            {
+                "apc_name_ar": "المشرية",
+                "apc_name_ascii": "Mecheria"
+            },
+            {
+                "apc_name_ar": "البيوض",
+                "apc_name_ascii": "El Biodh"
+            },
+            {
+                "apc_name_ar": "عين بن خليل",
+                "apc_name_ascii": "Ain Ben Khelil"
+            },
+            {
+                "apc_name_ar": "النعامة",
+                "apc_name_ascii": "Naama"
+            },
+            {
+                "apc_name_ar": "جنين بورزق",
+                "apc_name_ascii": "Djenienne Bourezg"
+            },
+            {
+                "apc_name_ar": "سفيسيفة",
+                "apc_name_ascii": "Sfissifa"
+            }
+        ]
+    },
+    "aïn_témouchent": {
+        "wilaya_code": "46",
+        "wilaya_name_ar": "عين تيموشنت",
+        "wilaya_name_ascii": "Aïn Témouchent",
+        "apcs": [
+            {
+                "apc_name_ar": "سيدي بومدين",
+                "apc_name_ascii": "Sidi Boumediene"
+            },
+            {
+                "apc_name_ar": "تامزورة",
+                "apc_name_ascii": "Tamzoura"
+            },
+            {
+                "apc_name_ar": "شعبة اللحم",
+                "apc_name_ascii": "Chaabat El Ham"
+            },
+            {
+                "apc_name_ar": "المالح",
+                "apc_name_ascii": "El Maleh"
+            },
+            {
+                "apc_name_ar": "أولاد الكيحل",
+                "apc_name_ascii": "Ouled Kihal"
+            },
+            {
+                "apc_name_ar": "شنتوف",
+                "apc_name_ascii": "Chentouf"
+            },
+            {
+                "apc_name_ar": "تارقة",
+                "apc_name_ascii": "Terga"
+            },
+            {
+                "apc_name_ar": "وادي الصباح",
+                "apc_name_ascii": "Oued Sebbah"
+            },
+            {
+                "apc_name_ar": "العامرية",
+                "apc_name_ascii": "El Amria"
+            },
+            {
+                "apc_name_ar": "حاسي الغلة",
+                "apc_name_ascii": "Hassi El Ghella"
+            },
+            {
+                "apc_name_ar": "أولاد بوجمعة",
+                "apc_name_ascii": "Ouled Boudjemaa"
+            },
+            {
+                "apc_name_ar": "أغلال",
+                "apc_name_ascii": "Aghlal"
+            },
+            {
+                "apc_name_ar": "عين الكيحل",
+                "apc_name_ascii": "Ain Kihal"
+            },
+            {
+                "apc_name_ar": "عين الطلبة",
+                "apc_name_ascii": "Ain Tolba"
+            },
+            {
+                "apc_name_ar": "عقب الليل",
+                "apc_name_ascii": "Aoubellil"
+            },
+            {
+                "apc_name_ar": "بني صاف",
+                "apc_name_ascii": "Beni Saf"
+            },
+            {
+                "apc_name_ar": "الحساسنة",
+                "apc_name_ascii": "Hassasna"
+            },
+            {
+                "apc_name_ar": "الأمير عبد القادر",
+                "apc_name_ascii": "Emir Abdelkader"
+            },
+            {
+                "apc_name_ar": "سيدي صافي",
+                "apc_name_ascii": "Sidi Safi"
+            },
+            {
+                "apc_name_ar": "ولهاصة الغرابة",
+                "apc_name_ascii": "Oulhaca El Gheraba"
+            },
+            {
+                "apc_name_ar": "سيدي ورياش",
+                "apc_name_ascii": "Sidi Ouriache"
+            },
+            {
+                "apc_name_ar": "عين الأربعاء",
+                "apc_name_ascii": "Ain El Arbaa"
+            },
+            {
+                "apc_name_ar": "المساعيد",
+                "apc_name_ascii": "El Messaid"
+            },
+            {
+                "apc_name_ar": "وادي برقش",
+                "apc_name_ascii": "Oued Berkeche"
+            },
+            {
+                "apc_name_ar": "سيدي بن عدة",
+                "apc_name_ascii": "Sidi Ben Adda"
+            },
+            {
+                "apc_name_ar": "عين تموشنت",
+                "apc_name_ascii": "Ain Temouchent"
+            },
+            {
+                "apc_name_ar": "بوزجار",
+                "apc_name_ascii": "Bouzedjar"
+            },
+            {
+                "apc_name_ar": "حمام بوحجر",
+                "apc_name_ascii": "Hammam Bou Hadjar"
+            }
+        ]
+    },
+    "ghardaïa": {
+        "wilaya_code": "47",
+        "wilaya_name_ar": "غرداية",
+        "wilaya_name_ascii": "Ghardaïa",
+        "apcs": [
+            {
+                "apc_name_ar": "ضاية بن ضحوة",
+                "apc_name_ascii": "Dhayet Bendhahoua"
+            },
+            {
+                "apc_name_ar": "المنصورة",
+                "apc_name_ascii": "Mansoura"
+            },
+            {
+                "apc_name_ar": "العطف",
+                "apc_name_ascii": "El Atteuf"
+            },
+            {
+                "apc_name_ar": "بونورة",
+                "apc_name_ascii": "Bounoura"
+            },
+            {
+                "apc_name_ar": "زلفانة",
+                "apc_name_ascii": "Zelfana"
+            },
+            {
+                "apc_name_ar": "القرارة",
+                "apc_name_ascii": "El Guerrara"
+            },
+            {
+                "apc_name_ar": "سبسب",
+                "apc_name_ascii": "Sebseb"
+            },
+            {
+                "apc_name_ar": "متليلي",
+                "apc_name_ascii": "Metlili"
+            },
+            {
+                "apc_name_ar": "بريان",
+                "apc_name_ascii": "Berriane"
+            },
+            {
+                "apc_name_ar": "غرداية",
+                "apc_name_ascii": "Ghardaia"
+            }
+        ]
+    },
+    "relizane": {
+        "wilaya_code": "48",
+        "wilaya_name_ar": "غليزان",
+        "wilaya_name_ascii": "Relizane",
+        "apcs": [
+            {
+                "apc_name_ar": "القطار",
+                "apc_name_ascii": "El-Guettar"
+            },
+            {
+                "apc_name_ar": "أولاد يعيش",
+                "apc_name_ascii": "Ouled Aiche"
+            },
+            {
+                "apc_name_ar": "بني درقن",
+                "apc_name_ascii": "Beni Dergoun"
+            },
+            {
+                "apc_name_ar": "دار بن عبد الله",
+                "apc_name_ascii": "Dar Ben Abdelah"
+            },
+            {
+                "apc_name_ar": "زمورة",
+                "apc_name_ascii": "Zemmoura"
+            },
+            {
+                "apc_name_ar": "جديوية",
+                "apc_name_ascii": "Djidiouia"
+            },
+            {
+                "apc_name_ar": "حمري",
+                "apc_name_ascii": "Hamri"
+            },
+            {
+                "apc_name_ar": "بلعسل بوزقزة",
+                "apc_name_ascii": "Belaassel Bouzagza"
+            },
+            {
+                "apc_name_ar": "المطمر",
+                "apc_name_ascii": "El-Matmar"
+            },
+            {
+                "apc_name_ar": "سيدي  خطاب",
+                "apc_name_ascii": "Sidi Khettab"
+            },
+            {
+                "apc_name_ar": "سيدي امحمد بن عودة",
+                "apc_name_ascii": "Sidi M'hamed Benaouda"
+            },
+            {
+                "apc_name_ar": "عين طارق",
+                "apc_name_ascii": "Ain-Tarek"
+            },
+            {
+                "apc_name_ar": "حد الشكالة",
+                "apc_name_ascii": "Had Echkalla"
+            },
+            {
+                "apc_name_ar": "الولجة",
+                "apc_name_ascii": "El Ouldja"
+            },
+            {
+                "apc_name_ar": "مازونة",
+                "apc_name_ascii": "Mazouna"
+            },
+            {
+                "apc_name_ar": "عين الرحمة",
+                "apc_name_ascii": "Ain Rahma"
+            },
+            {
+                "apc_name_ar": "القلعة",
+                "apc_name_ascii": "Kalaa"
+            },
+            {
+                "apc_name_ar": "سيدي سعادة",
+                "apc_name_ascii": "Sidi Saada"
+            },
+            {
+                "apc_name_ar": "يلل",
+                "apc_name_ascii": "Yellel"
+            },
+            {
+                "apc_name_ar": "سوق الحد",
+                "apc_name_ascii": "Souk El Had"
+            },
+            {
+                "apc_name_ar": "منداس",
+                "apc_name_ascii": "Mendes"
+            },
+            {
+                "apc_name_ar": "وادي السلام",
+                "apc_name_ascii": "Oued Essalem"
+            },
+            {
+                "apc_name_ar": "سيدي لزرق",
+                "apc_name_ascii": "Sidi Lazreg"
+            },
+            {
+                "apc_name_ar": "عمي موسى",
+                "apc_name_ascii": "Ammi Moussa"
+            },
+            {
+                "apc_name_ar": "واريزان",
+                "apc_name_ascii": "Ouarizane"
+            },
+            {
+                "apc_name_ar": "مرجة سيدي عابد",
+                "apc_name_ascii": "Merdja Sidi Abed"
+            },
+            {
+                "apc_name_ar": "أولاد سيدي الميهوب",
+                "apc_name_ascii": "Ouled Sidi Mihoub"
+            },
+            {
+                "apc_name_ar": "بن داود",
+                "apc_name_ascii": "Bendaoud"
+            },
+            {
+                "apc_name_ar": "وادي رهيو",
+                "apc_name_ascii": "Oued-Rhiou"
+            },
+            {
+                "apc_name_ar": "الحاسي",
+                "apc_name_ascii": "El Hassi"
+            },
+            {
+                "apc_name_ar": "سيدي أمحمد بن علي",
+                "apc_name_ascii": "Sidi M'hamed Benali"
+            },
+            {
+                "apc_name_ar": "مديونة",
+                "apc_name_ascii": "Mediouna"
+            },
+            {
+                "apc_name_ar": "بني زنطيس",
+                "apc_name_ascii": "Beni Zentis"
+            },
+            {
+                "apc_name_ar": "وادي الجمعة",
+                "apc_name_ascii": "Oued El Djemaa"
+            },
+            {
+                "apc_name_ar": "لحلاف",
+                "apc_name_ascii": "Lahlef"
+            },
+            {
+                "apc_name_ar": "غليزان",
+                "apc_name_ascii": "Relizane"
+            },
+            {
+                "apc_name_ar": "الحمادنة",
+                "apc_name_ascii": "El H'madna"
+            },
+            {
+                "apc_name_ar": "الرمكة",
+                "apc_name_ascii": "Ramka"
+            }
+        ]
+    },
+    "timimoun": {
+        "wilaya_code": "49",
+        "wilaya_name_ar": "تيميمون",
+        "wilaya_name_ascii": "Timimoun",
+        "apcs": [
+            {
+                "apc_name_ar": "تنركوك",
+                "apc_name_ascii": "Tinerkouk"
+            },
+            {
+                "apc_name_ar": "تيميمون",
+                "apc_name_ascii": "Timimoun"
+            },
+            {
+                "apc_name_ar": "أولاد السعيد",
+                "apc_name_ascii": "Ouled Said"
+            },
+            {
+                "apc_name_ar": "المطارفة",
+                "apc_name_ascii": "Metarfa"
+            },
+            {
+                "apc_name_ar": "طالمين",
+                "apc_name_ascii": "Talmine"
+            },
+            {
+                "apc_name_ar": "أولاد عيسى",
+                "apc_name_ascii": "Ouled Aissa"
+            },
+            {
+                "apc_name_ar": "شروين",
+                "apc_name_ascii": "Charouine"
+            },
+            {
+                "apc_name_ar": "أوقروت",
+                "apc_name_ascii": "Aougrout"
+            },
+            {
+                "apc_name_ar": "دلدول",
+                "apc_name_ascii": "Deldoul"
+            },
+            {
+                "apc_name_ar": "قصر قدور",
+                "apc_name_ascii": "Ksar Kaddour"
+            }
+        ]
+    },
+    "bordj_badji_mokhtar": {
+        "wilaya_code": "50",
+        "wilaya_name_ar": "برج باجي مختار",
+        "wilaya_name_ascii": "Bordj Badji Mokhtar",
+        "apcs": [
+            {
+                "apc_name_ar": "تيمياوين",
+                "apc_name_ascii": "Timiaouine"
+            },
+            {
+                "apc_name_ar": "برج باجي مختار",
+                "apc_name_ascii": "Bordj Badji Mokhtar"
+            }
+        ]
+    },
+    "ouled_djellal": {
+        "wilaya_code": "51",
+        "wilaya_name_ar": "أولاد جلال",
+        "wilaya_name_ascii": "Ouled Djellal",
+        "apcs": [
+            {
+                "apc_name_ar": "رأس الميعاد",
+                "apc_name_ascii": "Ras El Miad"
+            },
+            {
+                "apc_name_ar": "بسباس",
+                "apc_name_ascii": "Besbes"
+            },
+            {
+                "apc_name_ar": "سيدي  خالد",
+                "apc_name_ascii": "Sidi Khaled"
+            },
+            {
+                "apc_name_ar": "الدوسن",
+                "apc_name_ascii": "Doucen"
+            },
+            {
+                "apc_name_ar": "الشعيبة",
+                "apc_name_ascii": "Chaiba"
+            },
+            {
+                "apc_name_ar": "أولاد جلال",
+                "apc_name_ascii": "Ouled Djellal"
+            }
+        ]
+    },
+    "béni_abbès": {
+        "wilaya_code": "52",
+        "wilaya_name_ar": "بني عباس",
+        "wilaya_name_ascii": "Béni Abbès",
+        "apcs": [
+            {
+                "apc_name_ar": "بني عباس",
+                "apc_name_ascii": "Beni-Abbes"
+            },
+            {
+                "apc_name_ar": "تامترت",
+                "apc_name_ascii": "Tamtert"
+            },
+            {
+                "apc_name_ar": "إقلي",
+                "apc_name_ascii": "Igli"
+            },
+            {
+                "apc_name_ar": "الواتة",
+                "apc_name_ascii": "El Ouata"
+            },
+            {
+                "apc_name_ar": "أولاد خضير",
+                "apc_name_ascii": "Ouled-Khodeir"
+            },
+            {
+                "apc_name_ar": "كرزاز",
+                "apc_name_ascii": "Kerzaz"
+            },
+            {
+                "apc_name_ar": "تيمودي",
+                "apc_name_ascii": "Timoudi"
+            },
+            {
+                "apc_name_ar": "القصابي",
+                "apc_name_ascii": "Ksabi"
+            },
+            {
+                "apc_name_ar": "بن يخلف",
+                "apc_name_ascii": "Beni-Ikhlef"
+            }
+        ]
+    },
+    "in_salah": {
+        "wilaya_code": "53",
+        "wilaya_name_ar": "عين صالح",
+        "wilaya_name_ascii": "In Salah",
+        "apcs": [
+            {
+                "apc_name_ar": "إينغر",
+                "apc_name_ascii": "Inghar"
+            },
+            {
+                "apc_name_ar": "عين صالح",
+                "apc_name_ascii": "Ain Salah"
+            },
+            {
+                "apc_name_ar": "فقارة الزوى",
+                "apc_name_ascii": "Foggaret Ezzoua"
+            }
+        ]
+    },
+    "in_guezzam": {
+        "wilaya_code": "54",
+        "wilaya_name_ar": "عين قزام",
+        "wilaya_name_ascii": "In Guezzam",
+        "apcs": [
+            {
+                "apc_name_ar": "تين زواتين",
+                "apc_name_ascii": "Tin Zouatine"
+            },
+            {
+                "apc_name_ar": "عين قزام",
+                "apc_name_ascii": "Ain Guezzam"
+            }
+        ]
+    },
+    "touggourt": {
+        "wilaya_code": "55",
+        "wilaya_name_ar": "تقرت",
+        "wilaya_name_ascii": "Touggourt",
+        "apcs": [
+            {
+                "apc_name_ar": "تماسين",
+                "apc_name_ascii": "Temacine"
+            },
+            {
+                "apc_name_ar": "سيدي سليمان",
+                "apc_name_ascii": "Sidi Slimane"
+            },
+            {
+                "apc_name_ar": "المقارين",
+                "apc_name_ascii": "Megarine"
+            },
+            {
+                "apc_name_ar": "النزلة",
+                "apc_name_ascii": "Nezla"
+            },
+            {
+                "apc_name_ar": "بلدة اعمر",
+                "apc_name_ascii": "Blidet Amor"
+            },
+            {
+                "apc_name_ar": "تبسبست",
+                "apc_name_ascii": "Tebesbest"
+            },
+            {
+                "apc_name_ar": "تقرت",
+                "apc_name_ascii": "Touggourt"
+            },
+            {
+                "apc_name_ar": "الطيبات",
+                "apc_name_ascii": "Taibet"
+            },
+            {
+                "apc_name_ar": "العالية",
+                "apc_name_ascii": "El Alia"
+            },
+            {
+                "apc_name_ar": "الحجيرة",
+                "apc_name_ascii": "El-Hadjira"
+            },
+            {
+                "apc_name_ar": "بن ناصر",
+                "apc_name_ascii": "Benaceur"
+            },
+            {
+                "apc_name_ar": "المنقر",
+                "apc_name_ascii": "M'naguer"
+            },
+            {
+                "apc_name_ar": "الزاوية العابدية",
+                "apc_name_ascii": "Zaouia El Abidia"
+            }
+        ]
+    },
+    "djanet": {
+        "wilaya_code": "56",
+        "wilaya_name_ar": "جانت",
+        "wilaya_name_ascii": "Djanet",
+        "apcs": [
+            {
+                "apc_name_ar": "جانت",
+                "apc_name_ascii": "Djanet"
+            },
+            {
+                "apc_name_ar": "برج الحواس",
+                "apc_name_ascii": "Bordj El Haouass"
+            }
+        ]
+    },
+    "el_meghaier": {
+        "wilaya_code": "57",
+        "wilaya_name_ar": "المغير",
+        "wilaya_name_ascii": "El Meghaier",
+        "apcs": [
+            {
+                "apc_name_ar": "أم الطيور",
+                "apc_name_ascii": "Oum Touyour"
+            },
+            {
+                "apc_name_ar": "سيدي عمران",
+                "apc_name_ascii": "Sidi Amrane"
+            },
+            {
+                "apc_name_ar": "المرارة",
+                "apc_name_ascii": "M'rara"
+            },
+            {
+                "apc_name_ar": "جامعة",
+                "apc_name_ascii": "Djamaa"
+            },
+            {
+                "apc_name_ar": "تندلة",
+                "apc_name_ascii": "Tenedla"
+            },
+            {
+                "apc_name_ar": "المغير",
+                "apc_name_ascii": "El-M'ghaier"
+            },
+            {
+                "apc_name_ar": "سطيل",
+                "apc_name_ascii": "Still"
+            },
+            {
+                "apc_name_ar": "سيدي خليل",
+                "apc_name_ascii": "Sidi Khelil"
+            }
+        ]
+    },
+    "el_menia": {
+        "wilaya_code": "58",
+        "wilaya_name_ar": "المنيعة",
+        "wilaya_name_ascii": "El Menia",
+        "apcs": [
+            {
+                "apc_name_ar": "المنيعة",
+                "apc_name_ascii": "El Meniaa"
+            },
+            {
+                "apc_name_ar": "حاسي القارة",
+                "apc_name_ascii": "Hassi Gara"
+            },
+            {
+                "apc_name_ar": "حاسي الفحل",
+                "apc_name_ascii": "Hassi Fehal"
+            }
+        ]
+    }
+}
